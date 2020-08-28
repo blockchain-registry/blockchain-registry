@@ -1,0 +1,54 @@
+# Project name and or title
+title: Ethereum
+
+# Is the project tokenbased. YES or NO
+token:
+ 
+# The ticker is an abbreviation used to uniquely identify a project
+ticker: ETH
+
+# This is our open-sourced general blockchain category registry. Go to @blockchain_category/registry to help define the blockchain space
+category:
+
+# For any further category specification feel free to add multible sub categories. Each item must be on a new line starting with a dash
+sub_categories:
+ 
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters
+description: Ethereum is a global, open-source platform for decentralized applications. On Ethereum, you can write code that controls digital value, runs exactly as programmed, and is accessible anywhere in the world.
+ 
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site
+summary: Ethereum is a global, open-source platform for decentralized applications. On Ethereum, you can write code that controls digital value,
+ 
+# The year the project was founded
+age:
+
+# Is the project launched, if yes, what date
+launch_date:
+ 
+# Is the project forked. YES or NO
+forked: NO
+ 
+# If the project is forked. What project is it forked from
+forked_from:
+
+# Who holds the admin key, a centralised entity/company, the user or otherwise
+decentralized:
+ 
+# Is the project open source. YES or NO
+open_source:
+ 
+# What Consensus mechanism is utilized in the project. Each item must be on a new line starting with a dash
+consensus:
+ 
+# Governance attributes. Each item must be on a new line starting with a dash
+governance:
+ 
+# Smart contracts are high-level programming abstractions that are compiled and deployed to the blockchain ecosystem for execution.
+smart_contract_language:
+ 
+# which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash
+ecosystem:
+ 
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash
+integrations:
+ 
