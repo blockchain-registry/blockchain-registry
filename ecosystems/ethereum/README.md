@@ -51,4 +51,4 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 ---
 
 **Launched by**
-Blocktrack Ecosystem Registry is an open source collaborative effort hosted by [Blocktrack](https://beta.blocktrack.info)
+Blocktrack Ecosystem Registry is an open source collaborative effort hosted by [Blocktrack](https://blocktrack.info)
