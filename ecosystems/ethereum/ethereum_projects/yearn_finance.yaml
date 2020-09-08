@@ -1,0 +1,90 @@
+# Project name and or title.
+title: Yearn.finance
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Defi
+
+# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+taxonomies/tags:
+- Decentralized Finance
+- Governance
+- Yield Farming
+- Yearn
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: yearn.finance is an aggregator of various lending protocols that optimizes for the highest yield. The native token YFI is used for governance over the network and is distributed exclusively through active participation and liquidity provision. 
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: yearn.finance is an aggregator of various lending protocols that optimizes for the highest yield.
+ 
+# The year the project was founded.
+founded: 2020
+
+# Is the project launched, if yes, what year.
+launch_date: 2020
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+development: “https://github.com/iearn-finance"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+white_paper: “https://docs.yearn.finance"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+security_audit: "https://quantstamp.com/blog/yearn-finance-security-review"
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website: “https://yearn.finance"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+community:
+- "https://yearn.finance"
+- "https://gov.yearn.finance"
+- "https://ycosystem.info"
+- "https://learnyearn.finance"
+- "https://stats.finance"
+- "https://yieldfarming.info"
+- "https://feel-the-yearn.app"
+- "https://yearn.snapshot.page"
+- "https://twitter.com/iearnfinance"
+- "https://medium.com/iearn"
+- "https://discord.com/invite/GcjxhWR"
+- "https://t.me/yearnfinance"
+
+--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: YFI
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address: 0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e
+
+# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+integrations:
+- Compound (COMP)
+- Aave (Lend)
+- dYdX (DYDX)
+- Synthetix (SNX)
+
+# Governance attributes. Each item must be on a new line starting with a dash.
+governance: On-chain
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: Yes
+ 
