@@ -1,0 +1,81 @@
+# Project name and or title.
+title: Aave
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Defi
+
+# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+taxonomies/tags:
+- Lending
+- Fintech
+- Decentralized Finance
+- Defi
+- Flash Loans
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Aave is an open-source and non-custodial protocol to earn interest on deposits and borrow assets with a variable or stable interest rate. It also enables ultra-short duration, uncollateralized flash loans designed to be integrated into other products and services.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Aave is an open-source and non-custodial protocol to earn interest on deposits and borrow assets with a variable or stable interest rate.
+ 
+# The year the project was founded.
+founded: 2017
+
+# Is the project launched, if yes, what year.
+launch_date: 2020
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+development: "https://github.com/aave"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+white_paper: "https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+security_audit:
+- "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
+- "https://blog.openzeppelin.com/aave-protocol-audit/"
+- "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website: "https://aave.com"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+community:
+- "https://www.reddit.com/r/ETHLend/"
+- "https://twitter.com/AaveAave"
+- "https://www.facebook.com/AaveCom/"
+- "https://bitcointalk.org/index.php?topic=2090735.0"
+
+--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: LEND
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address: 0x80fb784b7ed66730e8b1dbd9820afd29931aab03
+
+# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+integrations: Chainlink
+
+# Governance attributes. Each item must be on a new line starting with a dash.
+governance: On-chain
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: Yes
