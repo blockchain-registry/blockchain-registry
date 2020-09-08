@@ -6,7 +6,7 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 **Project example**
 
- For more correct project upload you can see a project example [HERE](https://gitlab.com/blcktrck/bt-registry/-/blob/master/projects/augur.yaml).
+ For more correct project upload you can see a project example [HERE](https://gitlab.com/blockchain-registry/ecosystems/ethereum/ethereum_projects/aave).
 
 **Registry language**
 
