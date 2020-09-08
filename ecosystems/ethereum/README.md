@@ -14,7 +14,7 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 ---
 
-### Registry Sheet Overview
+### Project template overview
 
 **General info**
 
