@@ -16,10 +16,10 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 ### Registry Sheet Overview
 
-|    Command    | Description                                                                                                                                                                                                                                                                                   |
+|    Label    | Description                                                                                                                                                                                                                                                                                   |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  `Title`   | Project name and or titel  .        |
-|  `taxonomies/categories`   | # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.       |
+|  `taxonomies/categories`   | Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.       |
 |  `taxonomies/tags`   | For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.         |
 |  `Discription`   | Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.          |
 |  `Summary`   | Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.          |
@@ -34,9 +34,9 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 |  `Website`   | The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/".          |
 |  `Community`   | List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.        |
 
-Token info
+**Token info**
 
-|    Command    | Description                                                                                                                                                                                                                                                                                   |
+|    Label    | Description                                                                                                                                                                                                                                                                                   |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  `Ticker`   | The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank          |
 |  `Token`   | Is the project tokenbased. YES or NO          |
