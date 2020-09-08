@@ -1,0 +1,88 @@
+# Project name and or title.
+title: Compound
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Defi
+
+# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+taxonomies/tags:
+- Fintech
+- Defi
+- Decentralized Finance
+- Lending
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Compound is a lending platform built on Ethereum that enables users to permissionlessly borrow or lend from a pool of assets. Rather than interest rates being set by individuals, they are determined algorithmically based on the proportion of assets lent out.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Compound is a lending platform built on Ethereum that enables users to permissionlessly borrow or lend from a pool of assets.
+ 
+# The year the project was founded.
+founded: 2017
+
+# Is the project launched, if yes, what year.
+launch_date: 2018
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+development: "https://github.com/compound-finance"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+white_paper: "https://compound.finance/documents/Compound.Whitepaper.pdf"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+security_audit:
+- "https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf"
+- "https://blog.openzeppelin.com/compound-audit/"
+- "https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf"
+- "https://blog.openzeppelin.com/compound-finance-patch-audit/"
+- "https://blog.openzeppelin.com/compound-finance-mcd-dsr-integration/"
+- "https://blog.openzeppelin.com/compound-alpha-governance-system-audit/"
+- "https://github.com/trailofbits/publications/blob/master/reviews/compound-governance.pdf"
+- "https://blog.openzeppelin.com/compound-tether-integration-audit/"
+- "https://blog.openzeppelin.com/compound-comp-distribution-system-audit/"
+- "https://compound.finance/documents/Certora.pdf"
+- "https://gauntlet.network/reports/compound"
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website: "https://compound.finance"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+community:
+- "https://discord.com/invite/cU7vmVW"
+- "https://github.com/compound-finance/compound-protocol"
+- "https://medium.com/compound-finance"
+- "https://twitter.com/compoundfinance"
+
+--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: COMP
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address: 0xc00e94cb662c3520282e6f5717214004a7f26888
+
+# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+integrations: 
+
+# Governance attributes. Each item must be on a new line starting with a dash.
+governance: On-chain
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: Yes
