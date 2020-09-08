@@ -36,6 +36,8 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 Token info
 
+|    Command    | Description                                                                                                                                                                                                                                                                                   |
+| :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  `Ticker`   | The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank          |
 |  `Token`   | Is the project tokenbased. YES or NO          |
 |  `Contract Address`   | Project main contract address          |
