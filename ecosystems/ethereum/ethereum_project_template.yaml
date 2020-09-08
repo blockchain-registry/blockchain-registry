@@ -1,53 +1,32 @@
 # Project name and or title.
 title:
 
-# Is the project tokenbased. YES or NO.
-token:
- 
-# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
-
-# Project main contract address. If the project dont have a token leave blank.
-contract_address:
-
-# Only add one of the following category in this field. Building blocks, Coin/Currency, Core Infrastucture, Dapps, Defi.
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 taxonomies/categories:
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
 taxonomies/tags:
- 
+
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
 description:
- 
+
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
 summary:
  
 # The year the project was founded.
-founding_year:
+founded:
 
 # Is the project launched, if yes, what year.
 launch_date:
+
+# Is the project open source. YES or NO.
+open_source:
  
 # Is the project forked. YES or NO.
 forked:
  
 # If the project is forked. What project is it forked from.
 forked_from:
-
-# Who holds admin key a centralised entity/company the user or otherwise. Answer should just be YES or NO.
-decentralized:
- 
-# Is the project open source. YES or NO.
-open_source:
- 
-# Governance attributes. Each item must be on a new line starting with a dash.
-governance:
- 
-# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
-ecosystem:
- 
-# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
-integrations:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
@@ -63,3 +42,28 @@ website:
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
+
+--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token:
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker:
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address:
+
+# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+ecosystem:
+ 
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+integrations:
+
+# Governance attributes. Each item must be on a new line starting with a dash.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized:
