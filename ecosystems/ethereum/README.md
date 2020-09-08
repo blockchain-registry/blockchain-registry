@@ -40,7 +40,7 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 |    Label    | Description                                                                                                                                                                                                                                                                                   |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  `Token`   | Is the project tokenbased. YES or NO.          |
+|  `Token`   | Is the project tokenbased. YES or NO. If the answer is NO, leave the rest blank.         |
 |  `Ticker`   | The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.          |
 |  `Contract Address`   | Project main contract address.          |
 |  `Ecosystem`   | Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.          |           
