@@ -1,54 +1,71 @@
-# Project name and or title
+# Project name and or title.
 title: Ethereum
 
-# Is the project tokenbased. YES or NO
-token:
- 
-# The ticker is an abbreviation used to uniquely identify a project
-ticker: ETH
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Infrastructure
 
-# This is our open-sourced general blockchain category registry. Go to @blockchain_category/registry to help define the blockchain space
-category:
+# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+taxonomies/tags:
+- Infrastructure
+- Ecosystem
+- Smart Contracts
+- Programmable Blockchain
 
-# For any further category specification feel free to add multible sub categories. Each item must be on a new line starting with a dash
-sub_categories:
- 
-# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters
-description: Ethereum is a global, open-source platform for decentralized applications. On Ethereum, you can write code that controls digital value, runs exactly as programmed, and is accessible anywhere in the world.
- 
-# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site
-summary: Ethereum is a global, open-source platform for decentralized applications. On Ethereum, you can write code that controls digital value,
- 
-# The year the project was founded
-age:
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. It's a global, open-source platform for decentralized applications.
 
-# Is the project launched, if yes, what date
-launch_date:
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Ethereum is a global, open-source platform for decentralized applications.
  
-# Is the project forked. YES or NO
-forked: NO
+# The year the project was founded.
+founded: 2013
+
+# Is the project launched, if yes, what year.
+launch_date: 2015
+
+# Is the project open source. YES or NO.
+open_source: Yes
  
-# If the project is forked. What project is it forked from
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
 forked_from:
 
-# Who holds the admin key, a centralised entity/company, the user or otherwise
-decentralized:
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+development: "https://github.com/ethereum"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+white_paper: "https://ethereum.org/en/whitepaper/"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website: "https://ethereum.org/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+community:
+- https://twitter.com/ethereum
+- https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
+- https://www.reddit.com/r/ethereum/
+- https://forum.ethereum.org/
+- https://ethresear.ch/
+- https://gitter.im/ethereum/research
+- https://ethereum-magicians.org/
+
+--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
  
-# Is the project open source. YES or NO
-open_source:
- 
-# What Consensus mechanism is utilized in the project. Each item must be on a new line starting with a dash
-consensus:
- 
-# Governance attributes. Each item must be on a new line starting with a dash
-governance:
- 
-# Smart contracts are high-level programming abstractions that are compiled and deployed to the blockchain ecosystem for execution.
-smart_contract_language:
- 
-# which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash
-ecosystem:
- 
-# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash
-integrations:
- 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: ETH
+
+# Governance attributes. Each item must be on a new line starting with a dash.
+governance: off-chain
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: Yes
