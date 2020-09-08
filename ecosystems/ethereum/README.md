@@ -40,13 +40,13 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 |    Label    | Description                                                                                                                                                                                                                                                                                   |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  `Ticker`   | The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank          |
-|  `Token`   | Is the project tokenbased. YES or NO          |
-|  `Contract Address`   | Project main contract address          |
-|  `Ecosystem`   | Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash          |           
-|  `Intergrations`   | List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash          |
-|  `Governance`   | Governance attributes. Each item must be on a new line starting with a dash          |
-|  `Decentralized`   | Who holds admin key a centralised entity/company the user or otherwise. Answer should just be YES or NO          |
+|  `Token`   | Is the project tokenbased. YES or NO.          |
+|  `Ticker`   | The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.          |
+|  `Contract Address`   | Project main contract address.          |
+|  `Ecosystem`   | Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.          |           
+|  `Intergrations`   | List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.          |
+|  `Governance`   | Governance attributes. Each item must be on a new line starting with a dash.          |
+|  `Decentralized`   | Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.          |
 
 ---
 
