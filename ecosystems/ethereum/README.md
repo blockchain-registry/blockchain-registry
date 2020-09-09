@@ -6,7 +6,7 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 **Project example**
 
- For more correct project upload you can see a project example [HERE](https://gitlab.com/blcktrck/bt-registry/-/blob/master/projects/augur.yaml).
+ For more correct project upload you can see a project example [HERE](https://gitlab.com/blockchain-registry/ecosystems/ethereum/ethereum_projects/aave).
 
 **Registry language**
 
@@ -14,35 +14,41 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 ---
 
-### Registry Sheet Overview
+### Project template overview
 
-|    Command    | Description                                                                                                                                                                                                                                                                                   |
+**General info**
+
+|    Label    | Description                                                                                                                                                                                                                                                                                   |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  `Title`   | Project name and or titel          |
-|  `Ticker`   | The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank          |
-|  `Token`   | Is the project tokenbased. YES or NO          |
-|  `Contract Address`   | Project main contract address          |
-|  `Category`   | # Only add one of the following category in this field. Building Bloks, Coin/Currency, Core Infrastucture, Dapps, Open Finance. Go to our open-sourced blockchain category registry to help define the blockchain categori definition.          |
-|  `Sub Categories`   | For any further category specification feel free to add multible sub categories. Each item must be on a new line starting with a dash          |
-|  `Discription`   | Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters          |
-|  `Summary`   | Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site          |
-|  `Age`   | The year the project was founded          |
-|  `Launch Date`   | Is the project launched, if yes, what date          |
-|  `Forked`   | Is the project forked. Has to be either YES or NO          |
-|  `Forked From`   | If the project is forked. What project is it forked from          |
-|  `Decentralized`   | Who holds admin key a centralised entity/company the user or otherwise. Answer should just be YES or NO          |
-|  `Open Source`   | Is the project open source. YES or NO          |
-|  `Consensys`   | What Consensus mechanism is utilized in the project. Each item must be on a new line starting with a dash          |
-|  `Governance`   | Governance attributes. Each item must be on a new line starting with a dash          |
-|  `Smart Contract Language`   | Smart contracts are high-level programming abstractions that are compiled and deployed to the blockchain ecosystem for execution. Each item must be on a new line starting with a dash          |
-|  `Ecosystem`   | Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash          |           
-|  `Intergrations`   | List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash          |
-|  `Development`   | The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wraped in quotes (https://github.com/). Each item must be on a new line starting with a dash          |
-|  `Security Audit`   | Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes (https://github.com/). Each item must be on a new line starting with a dash          |
-|  `Website`   | The projects official website. Provided as a url. The url must be wraped in quotes (https://github.com/).          |
-|  `Community`   | List of community platforms. Each url must be wraped in quotes (https://github.com/). Each item must be on a new line starting with a dash          |
+|  `Title`   | Project name and or titel  .        |
+|  `taxonomies/categories`   | Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.       |
+|  `taxonomies/tags`   | For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.         |
+|  `Discription`   | Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.          |
+|  `Summary`   | Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.          |
+|  `Founded`   | The year the project was founded.          |
+|  `Launch Date`   | Is the project launched, if yes, what year.          |
+|  `Open Source`   | Is the project open source. YES or NO  .        |
+|  `Forked`   | Is the project forked. YES or NO.          |
+|  `Forked From`   | If the project is forked. What project is it forked from.         |
+|  `Development`   | The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.          |
+|  `White Paper`   | Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.          |
+|  `Security Audit`   | Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.          |
+|  `Website`   | The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/".          |
+|  `Community`   | List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.        |
+
+**Token info**
+
+|    Label    | Description                                                                                                                                                                                                                                                                                   |
+| :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  `Token`   | Is the project tokenbased. YES or NO. If the answer is NO, leave the next fields empty.         |
+|  `Ticker`   | The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.          |
+|  `Contract Address`   | Project main contract address.          |
+|  `Ecosystem`   | Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.          |           
+|  `Intergrations`   | List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.          |
+|  `Governance`   | Governance attributes. Each item must be on a new line starting with a dash.          |
+|  `Decentralized`   | Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.          |
 
 ---
 
 **Launched by**
-Blocktrack Ecosystem Registry is an open source collaborative effort hosted by [Blocktrack](https://beta.blocktrack.info)
+Blocktrack Ecosystem Registry is an open source collaborative effort hosted by [Blocktrack](https://blocktrack.info)

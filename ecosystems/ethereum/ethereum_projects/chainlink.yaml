@@ -1,63 +1,73 @@
 # Project name and or title.
-title:
+title: Chainlink
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories:
+taxonomies/categories: Infrastructure
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
 taxonomies/tags:
+- Defi
+- Decentralized Finance
+- Fintech
+- Oracles
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description:
+description: Chainlink is a decentralized oracle network. It aims to serve as a middleware between smart contracts on smart contracting platforms and external data sources, allowing smart contracts to securely access off-chain data feeds.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary:
+summary: Chainlink is a decentralized oracle network.
  
 # The year the project was founded.
-founded:
+founded: 2017
 
 # Is the project launched, if yes, what year.
-launch_date:
+launch_date: 2019
 
 # Is the project open source. YES or NO.
-open_source:
+open_source: Yes
  
 # Is the project forked. YES or NO.
-forked:
+forked: No
  
 # If the project is forked. What project is it forked from.
 forked_from:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-development:
+development: "https://github.com/smartcontractkit/chainlink"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper:
+white_paper: "https://link.smartcontract.com/whitepaper"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-security_audit:
+security_audit: "https://github.com/smartcontractkit/audits/blob/master/reports/Quantstamp%20-%20Chainlink%20Audit%20Report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website:
+website: "https://chain.link"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
+- "https://www.reddit.com/r/Chainlink/"
+- "https://t.me/chainlinkofficial"
+- "https://twitter.com/chainlink"
+- "https://www.youtube.com/chainlinkofficial"
+- "https://blog.chain.link/chainlink-chinese-communities/"
+- "https://weibo.com/login.php"
 
 --------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token:
+token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
+ticker: LINK
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address:
+contract_address: 0x514910771af9ca656af840dff83e8264ecf986ca
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
-ecosystem:
+ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
 integrations:
@@ -66,4 +76,4 @@ integrations:
 governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized:
+decentralized: No
