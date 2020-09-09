@@ -1,0 +1,77 @@
+# Project name and or title.
+title: Basic Attention Token
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Entertainment
+
+# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+taxonomies/tags:
+- Media and Entertainment
+- Advertising
+- Rewards
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built to address fraud in digital advertising. Bat is embedded into the Brave browser.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform.
+ 
+# The year the project was founded.
+founded: 2015
+
+# Is the project launched, if yes, what year.
+launch_date: 2016
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked:
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+development: "https://github.com/brave-intl"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+white_paper: "https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+security_audit:
+- "https://medium.com/zeppelin-blog/basic-attention-token-bat-audit-88bf196df64b"
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website: "https://basicattentiontoken.org/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+community:
+- "https://medium.com/@AttentionToken"
+- "https://twitter.com/attentiontoken"
+- "https://basicattentiontoken.rocket.chat/home"
+- "https://www.reddit.com/r/BATProject/"
+
+#————————————————————————————————————————
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: BAT
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address: 0x0d8775f648430679a709e98d2b0cb6250d2887ef
+
+# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+integrations:
+
+# Governance attributes. Each item must be on a new line starting with a dash.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
