@@ -1,0 +1,82 @@
+# Project name and or title.
+title: Balancer
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Defi
+
+# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+taxonomies/tags:
+- Defi
+- Decentralized Finance
+- Decentralized Exchange
+- Yield Farming
+- Governance
+- Fintech
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Balancer is an automated market maker, decentralized exchange and liquidity pool protocol, that allows users to provide liquidity for multiple assets simultaneously.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Balancer is an automated market maker, decentralized exchange and liquidity pool protocol.
+ 
+# The year the project was founded.
+founded: 2018
+
+# Is the project launched, if yes, what year.
+launch_date: 2020
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+development: "https://github.com/balancer-labs"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+white_paper: "https://balancer.finance/whitepaper/"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+security_audit:
+- "https://diligence.consensys.net/audits/2020/05/balancer-finance/"
+- "https://blog.openzeppelin.com/balancer-contracts-audit/"
+- "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtMQYB90ZuO38aKDyto%2F-M2EdQiZCQBtqpohoGtt%2F-M2EdpY4ind-7TyqtJL-%2FTrail%20of%20Bits%20Full%20Audit.pdf?alt=media&token=285781fb-c180-4cc3-8aeb-f5fc99578693"
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website: “https://balancer.finance/“
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+community:
+- "https://twitter.com/BalancerLabs"
+- "https://medium.com/balancer-protocol"
+- "https://discord.com/invite/ARJWaeF"
+
+#————————————————————————————————————————
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: BAL
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address: 0xba100000625a3754423978a60c9317c58a424e3d
+
+# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+integrations:
+
+# Governance attributes. Each item must be on a new line starting with a dash.
+governance: off-chain
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: Yes
+ 
