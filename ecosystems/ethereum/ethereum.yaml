@@ -46,15 +46,15 @@ website: "https://ethereum.org/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- https://twitter.com/ethereum
-- https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
-- https://www.reddit.com/r/ethereum/
-- https://forum.ethereum.org/
-- https://ethresear.ch/
-- https://gitter.im/ethereum/research
-- https://ethereum-magicians.org/
+- Twitter: https://twitter.com/ethereum
+- Youtube: https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
+- Reddit: https://www.reddit.com/r/ethereum/
+- Forum: https://forum.ethereum.org/
+- Ethresearcher: https://ethresear.ch/
+- Gitter: https://gitter.im/ethereum/research
+- Community Forum: https://ethereum-magicians.org/
 
---------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------
 
 #Token info
 
