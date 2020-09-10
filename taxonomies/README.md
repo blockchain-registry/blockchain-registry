@@ -1,7 +1,7 @@
 # Taxonomies
 Taxonomies are used to create relations between projects. Each taxonomy type has its own file. Taxonomy files should be formatted either as an array of strings or as an object with the identifier of the taxonomy as the key and relevant data as the value.
 
-Example taxonomy `colors.yaml`
+Example taxonomy `colors.yaml`:
 ```yaml
 - Green
 - Red
