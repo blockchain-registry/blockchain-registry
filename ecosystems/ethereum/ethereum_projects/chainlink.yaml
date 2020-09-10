@@ -47,12 +47,12 @@ website: "https://chain.link"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- Twitter: "https://twitter.com/chainlink"
-- Reddit: "https://www.reddit.com/r/Chainlink/"
-- Telegram: "https://t.me/chainlinkofficial"
-- Youtube: "https://www.youtube.com/chainlinkofficial"
-- Blog: "https://blog.chain.link/chainlink-chinese-communities/"
-- Weibo: "https://weibo.com/login.php"
+ Twitter: "https://twitter.com/chainlink"
+ Reddit: "https://www.reddit.com/r/Chainlink/"
+ Telegram: "https://t.me/chainlinkofficial"
+ Youtube: "https://www.youtube.com/chainlinkofficial"
+ Blog: "https://blog.chain.link/chainlink-chinese-communities/"
+ Weibo: "https://weibo.com/login.php"
 
 #--------------------------------------------------------------------------------
 

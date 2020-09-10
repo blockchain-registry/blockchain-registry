@@ -46,10 +46,10 @@ website: "https://basicattentiontoken.org/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- "https://medium.com/@AttentionToken"
-- "https://twitter.com/attentiontoken"
-- "https://basicattentiontoken.rocket.chat/home"
-- "https://www.reddit.com/r/BATProject/"
+ Twitter: "https://twitter.com/attentiontoken"
+ Medium: "https://medium.com/@AttentionToken"
+ Rocket Chat: "https://basicattentiontoken.rocket.chat/home"
+ Reddit: "https://www.reddit.com/r/BATProject/"
 
 #————————————————————————————————————————
 
@@ -62,7 +62,7 @@ token: Yes
 ticker: BAT
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: 0x0d8775f648430679a709e98d2b0cb6250d2887ef
+contract_address: "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
 ecosystem: Ethereum
