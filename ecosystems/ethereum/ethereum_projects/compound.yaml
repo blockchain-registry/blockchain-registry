@@ -33,34 +33,36 @@ forked: No
 forked_from:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-development: "https://github.com/compound-finance"
+development:
+- Github: "https://github.com/compound-finance"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 white_paper: "https://compound.finance/documents/Compound.Whitepaper.pdf"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
-- "https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf"
-- "https://blog.openzeppelin.com/compound-audit/"
-- "https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf"
-- "https://blog.openzeppelin.com/compound-finance-patch-audit/"
-- "https://blog.openzeppelin.com/compound-finance-mcd-dsr-integration/"
-- "https://blog.openzeppelin.com/compound-alpha-governance-system-audit/"
-- "https://github.com/trailofbits/publications/blob/master/reviews/compound-governance.pdf"
-- "https://blog.openzeppelin.com/compound-tether-integration-audit/"
-- "https://blog.openzeppelin.com/compound-comp-distribution-system-audit/"
-- "https://compound.finance/documents/Certora.pdf"
-- "https://gauntlet.network/reports/compound"
+- Trail of Bits:
+ - "https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf"
+ - "https://github.com/trailofbits/publications/blob/master/reviews/compound-governance.pdf"
+ - "https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf"
+- Openzeppelin:
+ - "https://blog.openzeppelin.com/compound-audit/"
+ - "https://blog.openzeppelin.com/compound-finance-patch-audit/"
+ - "https://blog.openzeppelin.com/compound-finance-mcd-dsr-integration/"
+ - "https://blog.openzeppelin.com/compound-alpha-governance-system-audit/"
+ - "https://blog.openzeppelin.com/compound-tether-integration-audit/"
+ - "https://blog.openzeppelin.com/compound-comp-distribution-system-audit/"
+- Certora: "https://compound.finance/documents/Certora.pdf"
+- Gauntlet: "https://gauntlet.network/reports/compound"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website: "https://compound.finance"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- "https://discord.com/invite/cU7vmVW"
-- "https://github.com/compound-finance/compound-protocol"
-- "https://medium.com/compound-finance"
-- "https://twitter.com/compoundfinance"
+- Twitter: "https://twitter.com/compoundfinance"
+- Discord: "https://discord.com/invite/cU7vmVW"
+- Medium: "https://medium.com/compound-finance"
 
 --------------------------------------------------------------------------------
 
@@ -73,7 +75,7 @@ token: Yes
 ticker: COMP
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: 0xc00e94cb662c3520282e6f5717214004a7f26888
+contract_address: "0xc00e94cb662c3520282e6f5717214004a7f26888"
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
 ecosystem: Ethereum
