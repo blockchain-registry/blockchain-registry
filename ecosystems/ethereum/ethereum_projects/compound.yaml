@@ -52,8 +52,10 @@ security_audit:
   Alpha governance system: "https://blog.openzeppelin.com/compound-alpha-governance-system-audit/"
   Tether integration: "https://blog.openzeppelin.com/compound-tether-integration-audit/"
   Comp distribution system: "https://blog.openzeppelin.com/compound-comp-distribution-system-audit/"
- Certora: "https://compound.finance/documents/Certora.pdf"
- Gauntlet: "https://gauntlet.network/reports/compound"
+ Certora:
+  Formal Verification: "https://compound.finance/documents/Certora.pdf"
+ Gauntlet:
+  https://gauntlet.network/reports/compound: "https://gauntlet.network/reports/compound"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website: "https://compound.finance"
