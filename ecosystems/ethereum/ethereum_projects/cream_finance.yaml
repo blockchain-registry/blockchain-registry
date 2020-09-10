@@ -30,7 +30,7 @@ open_source: No
 forked: Yes
  
 # If the project is forked. What project is it forked from.
-forked_from: Compound
+forked_from: compound
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
@@ -42,14 +42,14 @@ white_paper:
 security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: https://cream.finance/
+website: "https://cream.finance/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- https://discord.com/invite/Gcdqzq7
-- https://twitter.com/CreamdotFinance
-- https://t.me/CreamdotFinance
-- https://medium.com/@CreamdotFinance
+- Twitter: "https://twitter.com/CreamdotFinance"
+- Discrod: "https://discord.com/invite/Gcdqzq7"
+- Telegram: "https://t.me/CreamdotFinance"
+- Medium: "https://medium.com/@CreamdotFinance"
 
 #————————————————————————————————————————
 
@@ -62,7 +62,7 @@ token: Yes
 ticker: CREAM
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: 0x2ba592f78db6436527729929aaf6c908497cb200
+contract_address: "0x2ba592f78db6436527729929aaf6c908497cb200"
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
 ecosystem: Ethereum
