@@ -19,6 +19,4 @@ john_doe:
 - last_name: Doe
 ```
 
----
-
 Taxonomies should be self-explanatory meaning that the yaml files themselves should include enough information to be understandable by a human being.
