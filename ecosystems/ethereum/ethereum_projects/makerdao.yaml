@@ -32,7 +32,8 @@ forked: No
 forked_from:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-development: "https://github.com/makerdao"
+development:
+ Github: "https://github.com/makerdao"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 white_paper: "https://makerdao.com/en/whitepaper/"
