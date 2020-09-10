@@ -1,5 +1,5 @@
 # Project name and or title.
-title: Yearn.finance
+title: Yearn
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 taxonomies/categories: Defi
@@ -39,25 +39,26 @@ development: “https://github.com/iearn-finance"
 white_paper: “https://docs.yearn.finance"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-security_audit: "https://quantstamp.com/blog/yearn-finance-security-review"
+security_audit:
+- Quantstamp: "https://quantstamp.com/blog/yearn-finance-security-review"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website: “https://yearn.finance"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- "https://yearn.finance"
-- "https://gov.yearn.finance"
-- "https://ycosystem.info"
-- "https://learnyearn.finance"
-- "https://stats.finance"
-- "https://yieldfarming.info"
-- "https://feel-the-yearn.app"
-- "https://yearn.snapshot.page"
-- "https://twitter.com/iearnfinance"
-- "https://medium.com/iearn"
-- "https://discord.com/invite/GcjxhWR"
-- "https://t.me/yearnfinance"
+- Twitter: "https://twitter.com/iearnfinance"
+- Discord: "https://discord.com/invite/GcjxhWR"
+- Telegram: "https://t.me/yearnfinance"
+- Medium: "https://medium.com/iearn"
+- Governance: "https://gov.yearn.finance"
+- Community Aggregator: "https://ycosystem.info"
+- Learn Yearn: "https://learnyearn.finance"
+- Stats: "https://stats.finance"
+- Yeild info: "https://yieldfarming.info"
+- Feel the Yearn: "https://feel-the-yearn.app"
+- Snapshot: "https://yearn.snapshot.page"
+
 
 #--------------------------------------------------------------------------------
 
@@ -70,17 +71,17 @@ token: Yes
 ticker: YFI
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: 0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e
+contract_address: "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
 ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
 integrations:
-- Compound (COMP)
-- Aave (Lend)
-- dYdX (DYDX)
-- Synthetix (SNX)
+- Compound
+- Aave
+- dYdX
+- Synthetix
 
 # Governance attributes. Each item must be on a new line starting with a dash.
 governance: On-chain

@@ -39,20 +39,19 @@ white_paper: "https://makerdao.com/en/whitepaper/"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
-- "https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/TOB_MakerDAO_Final_Report.pdf"
-- "https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/PeckShield_Final_Audit_Report.pdf"
+- Tiral of Bits: "https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/TOB_MakerDAO_Final_Report.pdf"
+- PeckShield: "https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/PeckShield_Final_Audit_Report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website: "https://makerdao.com/en/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- "https://www.reddit.com/r/MakerDAO/"
-- "https://twitter.com/MakerDAO"
-- "https://www.reddit.com/r/MakerDAO/"
-- "https://t.me/makerdaoOfficial"
-- "https://chat.makerdao.com/home"
-- "https://www.youtube.com/MakerDAO"
+- Twitter: "https://twitter.com/MakerDAO"
+- Reddit: "https://www.reddit.com/r/MakerDAO/"
+- Telegram: "https://t.me/makerdaoOfficial"
+- Rocket Chat: "https://chat.makerdao.com/home"
+- Youtube: "https://www.youtube.com/MakerDAO"
 
 #--------------------------------------------------------------------------------
 
@@ -65,7 +64,7 @@ token: Yes
 ticker: MKR
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: 0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2
+contract_address: "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
 ecosystem: Ethereum

@@ -41,19 +41,19 @@ white_paper: "https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protoc
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
-- "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
-- "https://blog.openzeppelin.com/aave-protocol-audit/"
-- "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
+- ConsenSys Diligence: "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
+- Openzeppelin: "https://blog.openzeppelin.com/aave-protocol-audit/"
+- Trail of Bits: "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website: "https://aave.com"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- "https://www.reddit.com/r/ETHLend/"
-- "https://twitter.com/AaveAave"
-- "https://www.facebook.com/AaveCom/"
-- "https://bitcointalk.org/index.php?topic=2090735.0"
+- Reddit: "https://www.reddit.com/r/ETHLend/"
+- Twitter: "https://twitter.com/AaveAave"
+- Facebook: "https://www.facebook.com/AaveCom/"
+- Bitcointalk: "https://bitcointalk.org/index.php?topic=2090735.0"
 
 #--------------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ token: Yes
 ticker: LEND
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: 0x80fb784b7ed66730e8b1dbd9820afd29931aab03
+contract_address: "0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
 ecosystem: Ethereum

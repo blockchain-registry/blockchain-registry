@@ -1,60 +1,57 @@
 # Project name and or title.
-title: Ethereum
+title: C.R.E.A.M. Finance
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories: Infrastructure
+taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
 taxonomies/tags:
-- Infrastructure
-- Ecosystem
-- Smart Contracts
-- Programmable Blockchain
+- Defi
+- Decentralized Finance
+- Governance
+- Lending
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. It's a global, open-source platform for decentralized applications.
+description: C.R.E.A.M. is a decentralized peer to peer lending platform, built on the belief that the financial system of the future should be open and inclusive. Through the permissionless nature of blockchain and automation of smart contracts.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: Ethereum is a global, open-source platform for decentralized applications.
+summary: C.R.E.A.M. is a decentralized peer to peer lending platform.
  
 # The year the project was founded.
-founded: 2013
+founded: 2020
 
 # Is the project launched, if yes, what year.
-launch_date: 2015
+launch_date: 2020
 
 # Is the project open source. YES or NO.
-open_source: Yes
+open_source: No
  
 # Is the project forked. YES or NO.
-forked: No
+forked: Yes
  
 # If the project is forked. What project is it forked from.
-forked_from:
+forked_from: compound
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-development: "https://github.com/ethereum"
+development:
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper: "https://ethereum.org/en/whitepaper/"
+white_paper: 
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: "https://ethereum.org/"
+website: "https://cream.finance/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
-- Twitter: https://twitter.com/ethereum
-- Youtube: https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
-- Reddit: https://www.reddit.com/r/ethereum/
-- Forum: https://forum.ethereum.org/
-- Ethresearcher: https://ethresear.ch/
-- Gitter: https://gitter.im/ethereum/research
-- Community Forum: https://ethereum-magicians.org/
+- Twitter: "https://twitter.com/CreamdotFinance"
+- Discrod: "https://discord.com/invite/Gcdqzq7"
+- Telegram: "https://t.me/CreamdotFinance"
+- Medium: "https://medium.com/@CreamdotFinance"
 
-#--------------------------------------------------------------------------------
+#————————————————————————————————————————
 
 #Token info
 
@@ -62,10 +59,19 @@ community:
 token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker: ETH
+ticker: CREAM
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address: "0x2ba592f78db6436527729929aaf6c908497cb200"
+
+# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+integrations: Balancer
 
 # Governance attributes. Each item must be on a new line starting with a dash.
-governance: off-chain
+governance: DAO
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
 decentralized: Yes
