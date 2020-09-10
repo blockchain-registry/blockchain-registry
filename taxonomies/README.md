@@ -11,12 +11,12 @@ Example taxonomy `colors.yaml`:
 Example taxonomy `persons.yaml`:
 ```yaml
 jane_doe:
-- first_name: Jane
-- last_name: Doe
+ first_name: Jane
+ last_name: Doe
 
 john_doe:
-- first_name: John
-- last_name: Doe
+ first_name: John
+ last_name: Doe
 ```
 
 Taxonomies should be self-explanatory meaning that the yaml files themselves should include enough information to be understandable by a human being.
