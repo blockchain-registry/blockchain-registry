@@ -55,7 +55,7 @@ security_audit:
  Certora:
   Formal Verification: "https://compound.finance/documents/Certora.pdf"
  Gauntlet:
-  https://gauntlet.network/reports/compound: "https://gauntlet.network/reports/compound"
+  Market risk assessment: "https://gauntlet.network/reports/compound"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website: "https://compound.finance"
