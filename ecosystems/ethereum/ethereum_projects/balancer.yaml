@@ -43,9 +43,12 @@ white_paper: "https://balancer.finance/whitepaper/"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
- Diligence Consensys: "https://diligence.consensys.net/audits/2020/05/balancer-finance/"
- Openzeppelin: "https://blog.openzeppelin.com/balancer-contracts-audit/"
- Trail of Bits: "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtMQYB90ZuO38aKDyto%2F-M2EdQiZCQBtqpohoGtt%2F-M2EdpY4ind-7TyqtJL-%2FTrail%20of%20Bits%20Full%20Audit.pdf?alt=media&token=285781fb-c180-4cc3-8aeb-f5fc99578693"
+ Diligence Consensys:
+  Balancer Core: "https://diligence.consensys.net/audits/2020/05/balancer-finance/"
+ Openzeppelin:
+  Balancer Conracts: "https://blog.openzeppelin.com/balancer-contracts-audit/"
+ Trail of Bits:
+  Balancer Core: "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtMQYB90ZuO38aKDyto%2F-M2EdQiZCQBtqpohoGtt%2F-M2EdpY4ind-7TyqtJL-%2FTrail%20of%20Bits%20Full%20Audit.pdf?alt=media&token=285781fb-c180-4cc3-8aeb-f5fc99578693"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website: “https://balancer.finance/“
