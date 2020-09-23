@@ -36,14 +36,16 @@ development:
  Github: "https://github.com/brave-intl"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper: "https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf"
+whitepaper:
+ whitepaper 1: "https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
 - "https://medium.com/zeppelin-blog/basic-attention-token-bat-audit-88bf196df64b"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: "https://basicattentiontoken.org/"
+website:
+ basicattentiontoken.org: "https://basicattentiontoken.org/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
