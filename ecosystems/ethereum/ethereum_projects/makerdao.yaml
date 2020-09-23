@@ -36,7 +36,8 @@ development:
  Github: "https://github.com/makerdao"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper: "https://makerdao.com/en/whitepaper/"
+whitepaper:
+ whitepaper 1: "https://makerdao.com/en/whitepaper/"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
@@ -46,7 +47,8 @@ security_audit:
   Final Report: "https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/PeckShield_Final_Audit_Report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: "https://makerdao.com/en/"
+website:
+ makerdao.com: "https://makerdao.com/en/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
