@@ -43,9 +43,12 @@ whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
- ConsenSys Diligence: "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
- Openzeppelin: "https://blog.openzeppelin.com/aave-protocol-audit/"
- Trail of Bits: "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
+ ConsenSys Diligence:
+  CPM Price Provider: "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
+ Openzeppelin:
+  Protocol audit: "https://blog.openzeppelin.com/aave-protocol-audit/"
+ Trail of Bits:
+  Protocol Final Report: "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
