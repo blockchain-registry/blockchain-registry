@@ -41,7 +41,8 @@ whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
-- "https://medium.com/zeppelin-blog/basic-attention-token-bat-audit-88bf196df64b"
+ Zeppelin:
+  Token Audit: "https://medium.com/zeppelin-blog/basic-attention-token-bat-audit-88bf196df64b"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
