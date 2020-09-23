@@ -37,7 +37,8 @@ development:
  Github: “https://github.com/iearn-finance"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper: “https://docs.yearn.finance"
+white_paper:
+ whitepaper 1: “https://docs.yearn.finance"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
@@ -45,7 +46,8 @@ security_audit:
   Security review: "https://quantstamp.com/blog/yearn-finance-security-review"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: “https://yearn.finance"
+website:
+ yearn.finance: “https://yearn.finance"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
