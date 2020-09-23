@@ -48,7 +48,8 @@ security_audit:
  Trail of Bits: "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: "https://aave.com"
+website:
+ aave.com: "https://aave.com"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
