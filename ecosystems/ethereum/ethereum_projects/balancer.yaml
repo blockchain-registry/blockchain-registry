@@ -39,7 +39,8 @@ development:
  Github: "https://github.com/balancer-labs"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper: "https://balancer.finance/whitepaper/"
+whitepaper:
+ whitepaper 1: "https://balancer.finance/whitepaper/"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
@@ -51,7 +52,8 @@ security_audit:
   Balancer Core: "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtMQYB90ZuO38aKDyto%2F-M2EdQiZCQBtqpohoGtt%2F-M2EdpY4ind-7TyqtJL-%2FTrail%20of%20Bits%20Full%20Audit.pdf?alt=media&token=285781fb-c180-4cc3-8aeb-f5fc99578693"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: “https://balancer.finance/“
+website:
+ balancer.finance: “https://balancer.finance/“
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
