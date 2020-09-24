@@ -81,7 +81,7 @@ ecosystem: Ethereum
 integrations: Chainlink
 
 # Governance attributes. Each item must be on a new line starting with a dash.
-governance: On-chain
+governance: Update coming in V2
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: Yes
+decentralized: No - Admin keys with no timelock
