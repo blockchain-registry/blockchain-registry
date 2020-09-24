@@ -37,14 +37,17 @@ development:
  Github: "https://github.com/smartcontractkit/chainlink"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper: "https://link.smartcontract.com/whitepaper"
+whitepaper:
+ whitepaper 1: "https://link.smartcontract.com/whitepaper"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
- Quantstamp: "https://github.com/smartcontractkit/audits/blob/master/reports/Quantstamp%20-%20Chainlink%20Audit%20Report.pdf"
+ Quantstamp:
+  Protocol audit: "https://github.com/smartcontractkit/audits/blob/master/reports/Quantstamp%20-%20Chainlink%20Audit%20Report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: "https://chain.link"
+website:
+ chain.link: "https://chain.link"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:

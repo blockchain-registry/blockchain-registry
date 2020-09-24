@@ -38,16 +38,21 @@ development:
  Github: "https://github.com/aave"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper: "https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf"
+whitepaper:
+ Whitepaper 1: "https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
- ConsenSys Diligence: "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
- Openzeppelin: "https://blog.openzeppelin.com/aave-protocol-audit/"
- Trail of Bits: "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
+ ConsenSys Diligence:
+  CPM Price Provider: "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
+ Openzeppelin:
+  Protocol audit: "https://blog.openzeppelin.com/aave-protocol-audit/"
+ Trail of Bits:
+  Protocol Final Report: "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
-website: "https://aave.com"
+website:
+ aave.com: "https://aave.com"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
@@ -76,7 +81,7 @@ ecosystem: Ethereum
 integrations: Chainlink
 
 # Governance attributes. Each item must be on a new line starting with a dash.
-governance: On-chain
+governance: Update coming in V2
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: Yes
+decentralized: No - Admin keys with no timelock

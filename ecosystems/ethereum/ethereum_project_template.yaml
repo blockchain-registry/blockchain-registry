@@ -32,7 +32,7 @@ forked_from:
 development:
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper:
+whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
