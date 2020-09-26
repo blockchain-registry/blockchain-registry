@@ -24,6 +24,9 @@ founded: 2017
 # Is the project launched, if yes, what year.
 launch_date: 2020
 
+# Project status. Choose one of the following: Development, Live, Dead, Scam.
+Status: Live
+
 # Is the project open source. YES or NO.
 open_source: Yes
  
@@ -81,7 +84,9 @@ ecosystem: Ethereum
 integrations: Chainlink
 
 # Governance attributes. Each item must be on a new line starting with a dash.
-governance: Update coming in V2
+governance:
+ Onchain:
+  Aave Improvement Proposals: "https://aave.com/aavenomics"
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: No - Admin keys with no timelock
+decentralized: Yes
