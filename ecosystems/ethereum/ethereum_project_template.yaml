@@ -19,6 +19,9 @@ founded:
 # Is the project launched, if yes, what year.
 launch_date:
 
+# Project status. Choose one of the following: Development, Live, Dead, Scam.
+Status:
+
 # Is the project open source. YES or NO.
 open_source:
  
