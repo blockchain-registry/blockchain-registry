@@ -27,6 +27,7 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 |  `Summary`   | Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.          |
 |  `Founded`   | The year the project was founded.          |
 |  `Launch Date`   | Is the project launched, if yes, what year.          |
+|  `Status`   | Project status. Choose one of the following: Development, Live, Dead, Scam           |
 |  `Open Source`   | Is the project open source. YES or NO  .        |
 |  `Forked`   | Is the project forked. YES or NO.          |
 |  `Forked From`   | If the project is forked. What project is it forked from.         |
