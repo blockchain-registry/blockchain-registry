@@ -23,6 +23,9 @@ founded: 2020
 # Is the project launched, if yes, what year.
 launch_date: 2020
 
+# Project status. Choose one of the following: Development, Live, Dead, Scam. 
+status: Live
+
 # Is the project open source. YES or NO.
 open_source: No
  
