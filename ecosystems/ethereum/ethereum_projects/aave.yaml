@@ -4,7 +4,7 @@ title: Aave
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 taxonomies/categories: Defi
 
-# For any further category specification feel free to add multible tags.
+# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
 taxonomies/tags:
 - Lending
 - Fintech
@@ -24,8 +24,8 @@ founded: 2017
 # Is the project launched, if yes, what year.
 launch_date: 2020
 
-# Project status. Choose one of the following: Development, Live, Dead, Scam. 
-status:
+# Project status. Choose one of the following: Development, Live, Dead, Scam.
+Status: Live
 
 # Is the project open source. YES or NO.
 open_source: Yes
@@ -36,15 +36,15 @@ forked: No
 # If the project is forked. What project is it forked from.
 forked_from:
 
-# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
  Github: "https://github.com/aave"
 
-# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 whitepaper:
  Whitepaper 1: "https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf"
 
-# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
  ConsenSys Diligence:
   CPM Price Provider: "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
@@ -57,7 +57,7 @@ security_audit:
 website:
  aave.com: "https://aave.com"
 
-# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
  Reddit: "https://www.reddit.com/r/ETHLend/"
  Twitter: "https://twitter.com/AaveAave"
@@ -77,14 +77,16 @@ ticker: LEND
 # Project main contract address. If the project dont have a token leave blank.
 contract_address: "0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
 
-# Which "ecosystem" (baselayer) is it built/deployed on.
+# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
 ecosystem: Ethereum
  
-# List of other blockchain projects that are integrated into this one.
+# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
 integrations: Chainlink
 
 # Governance attributes. Each item must be on a new line starting with a dash.
-governance: Update coming in V2
+governance:
+ Onchain:
+  Aave Improvement Proposals: "https://aave.com/aavenomics"
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: No - Admin keys with no timelock
+decentralized: Yes
