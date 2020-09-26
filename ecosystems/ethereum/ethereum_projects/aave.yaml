@@ -4,7 +4,7 @@ title: Aave
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 taxonomies/categories: Defi
 
-# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+# For any further category specification feel free to add multible tags.
 taxonomies/tags:
 - Lending
 - Fintech
@@ -24,6 +24,9 @@ founded: 2017
 # Is the project launched, if yes, what year.
 launch_date: 2020
 
+# Project status. Choose one of the following: Development, Live, Dead, Scam. 
+status:
+
 # Is the project open source. YES or NO.
 open_source: Yes
  
@@ -33,15 +36,15 @@ forked: No
 # If the project is forked. What project is it forked from.
 forked_from:
 
-# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
  Github: "https://github.com/aave"
 
-# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
  Whitepaper 1: "https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf"
 
-# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
  ConsenSys Diligence:
   CPM Price Provider: "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
@@ -54,7 +57,7 @@ security_audit:
 website:
  aave.com: "https://aave.com"
 
-# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
  Reddit: "https://www.reddit.com/r/ETHLend/"
  Twitter: "https://twitter.com/AaveAave"
@@ -74,10 +77,10 @@ ticker: LEND
 # Project main contract address. If the project dont have a token leave blank.
 contract_address: "0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
 
-# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+# Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
  
-# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+# List of other blockchain projects that are integrated into this one.
 integrations: Chainlink
 
 # Governance attributes. Each item must be on a new line starting with a dash.
