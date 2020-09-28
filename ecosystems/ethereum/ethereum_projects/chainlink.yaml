@@ -23,7 +23,7 @@ founded: 2017
 # Is the project launched, if yes, what year.
 launch_date: 2019
 
-# Project status. Choose one of the following: Development, Live, Dead, Scam. 
+# Project status. Choose one of the following: Development, Live, Ghost, Scam. 
 status: Live
 
 # Is the project open source. YES or NO.
