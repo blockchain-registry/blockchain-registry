@@ -1,0 +1,91 @@
+# Project name and or title.
+title: Harvest Finance
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Defi
+
+# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+taxonomies/tags:
+Defi
+Yield Farming
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Harvest automatically farms the highest yield available from the newest DeFi protocols, and optimizes the yields that are received using the latest farming techniques.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Harvest automatically farms the highest yield available from the newest DeFi protocols.
+ 
+# The year the project was founded.
+founded: 2020
+
+# Is the project launched, if yes, what year.
+launch_date: 2020
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: Yes
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+ Compound
+ Curve
+ Uniswap
+ Synthetix
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+development:
+ Github: "https://github.com/harvest-finance"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ Harvest.Finance: "https://harvest.finance/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Reddit: "https://www.reddit.com/r/HarvestFinance/"
+ Twitter: "https://twitter.com/harvest_finance"
+ Medium: "https://medium.com/harvest-finance"
+ Discord: "https://discord.com/invite/R5SeTVR"
+ Community Wiki: "https://farm.chainwiki.dev/en/home"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: FARM
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address: 0xa0246c9032bc3a600820415ae600c6388619a14d
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+ Curve
+ Balancer
+ Compound
+ mStable
+ Cream Finance
+ Uniswap
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: Yes
