@@ -4,7 +4,7 @@ title:
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 taxonomies/categories:
 
-# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+# For any further category specification feel free to add multible tags.
 taxonomies/tags:
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
@@ -31,19 +31,19 @@ forked:
 # If the project is forked. What project is it forked from.
 forked_from:
 
-# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
 
-# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
 
-# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
 
-# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
 
 #--------------------------------------------------------------------------------
@@ -56,16 +56,16 @@ token:
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
 ticker:
 
-# Project main contract address. If the project dont have a token leave blank.
+# Project main contract address.
 contract_address:
 
-# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+# Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem:
  
-# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+# List of other blockchain projects that are integrated into this one.
 integrations:
 
-# Governance attributes. Each item must be on a new line starting with a dash.
+# Governance attributes.
 governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
