@@ -6,8 +6,8 @@ taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
 taxonomies/tags:
-Defi
-Yield Farming
+ - Defi
+ - Yield Farming
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
 description: Harvest automatically farms the highest yield available from the newest DeFi protocols, and optimizes the yields that are received using the latest farming techniques.
@@ -32,10 +32,10 @@ forked: Yes
  
 # If the project is forked. What project is it forked from.
 forked_from:
- Compound
- Curve
- Uniswap
- Synthetix
+ - Compound
+ - Curve
+ - Uniswap
+ - Synthetix
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
