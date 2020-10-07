@@ -1,23 +1,23 @@
-- ecosystem: 
-  - name: Ecosystem
-  - description: Underlying fundamental systems that other projects build on.
+ecosystem: 
+  name: Ecosystem
+  description: Underlying fundamental systems that other projects build on.
 
-- infrastructure: 
-  - name: Infrastructure
-  - description: Open-source software projects that are critical to the functionality of the blockchain or protocols that are easy to leverage by other projects in a given ecosystem.
+infrastructure: 
+  name: Infrastructure
+  description: Open-source software projects that are critical to the functionality of the blockchain or protocols that are easy to leverage by other projects in a given ecosystem.
 
-- money:
-  - name: Money
-  - description: Digital currency that solves the double-spending problem without the need of a trusted authority or central server. Assets/tokens with money like attributes. A common definition of money is a store-of-value (SoV), medium of exchange (MoE), and unit of account (UoA).
+money:
+  name: Money
+  description: Digital currency that solves the double-spending problem without the need of a trusted authority or central server. Assets/tokens with money like attributes. A common definition of money is a store-of-value (SoV), medium of exchange (MoE), and unit of account (UoA).
 
-- defi: 
-  - name: Defi
-  - description: Financial applications that are being developed on top of blockchain systems enabling advanced open financial instruments to be build. Lowering the barrier to entry. a transformation away from institutions such as banks to act as intermediaries and centralised arbitrators towards decentralization and open source. 
+defi: 
+  name: Defi
+  description: Financial applications that are being developed on top of blockchain systems enabling advanced open financial instruments to be build. Lowering the barrier to entry. a transformation away from institutions such as banks to act as intermediaries and centralised arbitrators towards decentralization and open source. 
 
-- collectibles: 
-  - name: Collectibles
-  - description: Cryptographic tokens on a blockchain that represents a unique asset. These can either be entirely digital assets or tokenized versions of real-world assets.
+collectibles: 
+  name: Collectibles
+  description: Cryptographic tokens on a blockchain that represents a unique asset. These can either be entirely digital assets or tokenized versions of real-world assets.
 
-- entertainment: 
-  - name: Entertainment
-  - description: Entertainment is a form of activity that holds the attention and interest of an audience - eg. gambling, games and content
+entertainment: 
+  name: Entertainment
+  description: Entertainment is a form of activity that holds the attention and interest of an audience - eg. gambling, games and content
