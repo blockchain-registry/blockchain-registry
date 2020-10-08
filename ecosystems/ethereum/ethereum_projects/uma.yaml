@@ -6,13 +6,14 @@ taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags.
 taxonomies/tags:
- Defi
- Finance
- Fintech
- Business Services
- Decentralized Finance
- Governance
- Oracle
+ - Defi
+ - Finance
+ - Fintech
+ - Business Services
+ - Decentralized Finance
+ - Governance
+ - Oracle
+ - Derivatives
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
 description: 
@@ -21,19 +22,19 @@ description:
 summary: A Protocol for Building Synthetic Assets
  
 # The year the project was founded.
-founded:
+founded: 2018
 
 # Is the project launched, if yes, what year.
-launch_date:
+launch_date: 2019
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status:
+Status: Live
 
 # Is the project open source. YES or NO.
-open_source:
+open_source: Yes
  
 # Is the project forked. YES or NO.
-forked:
+forked: No
  
 # If the project is forked. What project is it forked from.
 forked_from:
@@ -48,12 +49,20 @@ whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
+ OpenZeppelin:
+  Phase 1 - Oracle And Common Audit: "https://blog.openzeppelin.com/uma-audit-phase-1/"
+  Phase 2 - Financial Templates Audit: "https://blog.openzeppelin.com/uma-audit-phase-2/"
+  Phase 3 - Fixes and Refactors Audit: "https://blog.openzeppelin.com/uma-audit-phase-3/"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
+ umaproject.org: "https://umaproject.org/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
+ Twitter: "https://twitter.com/umaprotocol"
+ Discord: "https://discord.com/invite/jsb9XQJ"
+ Medium: "https://medium.com/uma-project"
 
 #--------------------------------------------------------------------------------
 
