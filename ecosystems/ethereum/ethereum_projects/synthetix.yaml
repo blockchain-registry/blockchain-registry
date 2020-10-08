@@ -1,0 +1,102 @@
+# Project name and or title.
+title: Synthetix
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Defi
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags:
+ - Defi
+ - Decentralized Finance
+ - Business Services
+ - Derivatives
+ - Fintech
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Synthetix is a decentralised synthetic asset issuance protocol built on Ethereum. These synthetic assets are collateralized by the Synthetix Network Token (SNX) which when locked in the contract enables the issuance of synthetic assets (Synths). This pooled collateral model enables users to perform conversions between Synths directly with the smart contract, avoiding the need for counterparties.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Synthetix is the backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets.
+ 
+# The year the project was founded.
+founded: 2017
+
+# Is the project launched, if yes, what year.
+launch_date: 2019
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: "https://github.com/Synthetixio/"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+ Iosio:
+  August 2020 - Pollux Release: "https://iosiro.com/audits/synthetix-pollux-release-smart-contract-audit"
+  June 2020 - Acrux Release: "https://iosiro.com/audits/synthetix-acrux-release-smart-contract-audit"
+  June 2020 - Altair Release: "https://iosiro.com/audits/synthetix-altair-release-smart-contract-audit"
+  March 2020 - SIP-44 and SIP-46: "https://iosiro.com/audits/synthetix-sip-44-and-sip-46-smart-contract-audit"
+  February 2020 - PR-435: "https://iosiro.com/audits/synthetix-pr-435-smart-contract-audit"
+  February 2020 - SIP-37: "https://www.iosiro.com/audits/synthetix-sip37-smart-contract-audit"
+  August 2019 - Phase 2: "https://www.iosiro.com/audits/synthetix-phase-2-smart-contract-audit"
+  February 2019 - Phase 1: "https://www.iosiro.com/audits/synthetix-phase-1-smart-contract-audit"
+ Sigma Prime:
+  March 2020 - One week claims and advanced delegation: "https://github.com/sigp/public-audits/blob/master/synthetix/delegates/review.pdf"
+  February 2020 - Skinny Ether Collateral: "https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf"
+  February 2020 - sETH LP Rewards: "https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf"
+  January 2019 - Synthetix Multicurrency: "https://github.com/sigp/public-audits/blob/master/synthetix/multicurrency/review.pdf"
+  June 2018 - Havven IssuanceController: "https://github.com/sigp/public-audits/blob/master/havven-2018-06-18/review.pdf"
+  June 2018 - Havven nUSD: "https://github.com/sigp/public-audits/blob/master/havven-2018-06-06/havven-review.pdf"
+  April 2018 - Havven eUSD: "https://github.com/sigp/public-audits/blob/master/havven-2018-04-05/README.md"
+  
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ synthetix.io: "https://www.synthetix.io/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/synthetix_io"
+ Telegram: "https://t.me/havven_news"
+ Discord: "https://discord.com/invite/AEdUHzt"
+ Reddit: "https://www.reddit.com/r/synthetix_io/"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: SNX
+
+# Project main contract address.
+contract_address: 0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+ - Chainlink
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No

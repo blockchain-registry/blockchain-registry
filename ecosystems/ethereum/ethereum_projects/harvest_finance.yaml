@@ -1,21 +1,19 @@
 # Project name and or title.
-title: Yearn Finance
+title: Harvest Finance
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
 taxonomies/tags:
-- Decentralized Finance
-- Governance
-- Yield Farming
-- Yearn
+ - Defi
+ - Yield Farming
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: Yearn Finance is an aggregator of various lending protocols that optimizes for the highest yield. The native token YFI is used for governance over the network and is distributed exclusively through active participation and liquidity provision. 
+description: Harvest automatically farms the highest yield available from the newest DeFi protocols, and optimizes the yields that are received using the latest farming techniques.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: Yearn Finance is an aggregator of various lending protocols that optimizes for the highest yield.
+summary: Harvest automatically farms the highest yield available from the newest DeFi protocols.
  
 # The year the project was founded.
 founded: 2020
@@ -23,48 +21,43 @@ founded: 2020
 # Is the project launched, if yes, what year.
 launch_date: 2020
 
-# Project status. Choose one of the following: Development, Live, Ghost, Scam. 
-status: Live
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
 
 # Is the project open source. YES or NO.
 open_source: Yes
  
 # Is the project forked. YES or NO.
-forked: No
+forked: Yes
  
 # If the project is forked. What project is it forked from.
 forked_from:
+ - Compound
+ - Curve
+ - Uniswap
+ - Synthetix
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
- Github: “https://github.com/iearn-finance"
+ Github: "https://github.com/harvest-finance"
 
-# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
-white_paper:
- whitepaper: “https://docs.yearn.finance"
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
- Quantstamp:
-  Security review: "https://quantstamp.com/blog/yearn-finance-security-review"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- yearn.finance: “https://yearn.finance"
+ Harvest.Finance: "https://harvest.finance/"
 
-# List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
- Twitter: "https://twitter.com/iearnfinance"
- Discord: "https://discord.com/invite/GcjxhWR"
- Telegram: "https://t.me/yearnfinance"
- Medium: "https://medium.com/iearn"
- Governance: "https://gov.yearn.finance"
- Community Aggregator: "https://ycosystem.info"
- Learn Yearn: "https://learnyearn.finance"
- Stats: "https://stats.finance"
- Yeild info: "https://yieldfarming.info"
- Feel the Yearn: "https://feel-the-yearn.app"
- Snapshot: "https://yearn.snapshot.page"
+ Reddit: "https://www.reddit.com/r/HarvestFinance/"
+ Twitter: "https://twitter.com/harvest_finance"
+ Medium: "https://medium.com/harvest-finance"
+ Discord: "https://discord.com/invite/R5SeTVR"
+ Community Wiki: "https://farm.chainwiki.dev/en/home"
 
 #--------------------------------------------------------------------------------
 
@@ -74,24 +67,25 @@ community:
 token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker: YFI
+ticker: FARM
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+contract_address: 0xa0246c9032bc3a600820415ae600c6388619a14d
 
-# Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
+# Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
  
-# List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
+# List of other blockchain projects that are integrated into this one.
 integrations:
-- Compound
-- Aave
-- dYdX
-- Synthetix
+ Curve
+ Balancer
+ Compound
+ mStable
+ Cream Finance
+ Uniswap
 
-# Governance attributes. Each item must be on a new line starting with a dash.
-governance: On-chain
+# Governance attributes.
+governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: Yes
- 
+decentralized: No
