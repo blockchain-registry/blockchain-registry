@@ -88,4 +88,4 @@ integrations:
 governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: Yes
+decentralized: No
