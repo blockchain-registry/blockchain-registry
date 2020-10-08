@@ -6,67 +6,84 @@ taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
 taxonomies/tags:
+ - Defi
+ - Decentralized Finane
+ - Yield Farming
+ - Liquidity Providing
+ - Automated Market Maker
+ - AMM
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description:
+description: Curve is an exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading. By focusing on stablecoins, it’s able to offer traders extremely low slippage, and liquidity providers enjoy little-to-no impermanent loss.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary:
+summary: Curve is an exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading.
  
 # The year the project was founded.
-founded:
+founded: 2019
 
 # Is the project launched, if yes, what year.
-launch_date:
+launch_date: 2020
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status:
+Status: Live
 
 # Is the project open source. YES or NO.
-open_source:
+open_source: Yes
  
 # Is the project forked. YES or NO.
-forked:
+forked: No
  
 # If the project is forked. What project is it forked from.
 forked_from:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
+ Github: "https://github.com/curvefi"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 whitepaper:
+ Whitepaper: "https://www.curve.fi/stableswap-paper.pdf"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
+ Trial of Bits:
+  Security Assessment (Summary): "https://www.curve.fi/curve_audits/01-ToB.pdf"
+  Curve.fi Smart contract: "https://www.curve.fi/curve_audits/00-ToB.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
+ Twitter: "https://twitter.com/curvefinance"
+ Telegram: "https://t.me/curvefi"
+ Discord: "https://discord.com/invite/9uEHakc"
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token:
+token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
+ticker: CRV
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address:
+contract_address: 0xd533a949740bb3306d119cc777fa900ba034cd52
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
-ecosystem:
+ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
 integrations:
+ - Compound
+ - Yearn Finance
+ - Synthetix
 
 # Governance attributes. Each item must be on a new line starting with a dash.
 governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized:
+decentralized: No
