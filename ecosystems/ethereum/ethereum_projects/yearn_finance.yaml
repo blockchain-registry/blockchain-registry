@@ -1,5 +1,5 @@
 # Project name and or title.
-title: Yearn
+title: Yearn Finance
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 taxonomies/categories: Defi
@@ -12,10 +12,10 @@ taxonomies/tags:
 - Yearn
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: yearn.finance is an aggregator of various lending protocols that optimizes for the highest yield. The native token YFI is used for governance over the network and is distributed exclusively through active participation and liquidity provision. 
+description: Yearn Finance is an aggregator of various lending protocols that optimizes for the highest yield. The native token YFI is used for governance over the network and is distributed exclusively through active participation and liquidity provision. 
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: yearn.finance is an aggregator of various lending protocols that optimizes for the highest yield.
+summary: Yearn Finance is an aggregator of various lending protocols that optimizes for the highest yield.
  
 # The year the project was founded.
 founded: 2020
@@ -41,7 +41,7 @@ development:
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 white_paper:
- whitepaper 1: “https://docs.yearn.finance"
+ whitepaper: “https://docs.yearn.finance"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
