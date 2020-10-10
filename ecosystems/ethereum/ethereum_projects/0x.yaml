@@ -1,0 +1,72 @@
+# Project name and or title.
+title: 0x
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories:
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags:
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description:
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary:
+ 
+# The year the project was founded.
+founded:
+
+# Is the project launched, if yes, what year.
+launch_date:
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status:
+
+# Is the project open source. YES or NO.
+open_source:
+ 
+# Is the project forked. YES or NO.
+forked:
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token:
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker:
+
+# Project main contract address.
+contract_address:
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem:
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized:
