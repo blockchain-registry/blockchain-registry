@@ -72,7 +72,7 @@ token: Yes
 ticker: CRV
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: 0xd533a949740bb3306d119cc777fa900ba034cd52
+contract_address: "0xd533a949740bb3306d119cc777fa900ba034cd52"
 
 # Which "ecosystem" (baselayer) is it built/deployed on. Each item must be on a new line starting with a dash.
 ecosystem: Ethereum
