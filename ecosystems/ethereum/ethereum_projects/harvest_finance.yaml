@@ -70,7 +70,7 @@ token: Yes
 ticker: FARM
 
 # Project main contract address. If the project dont have a token leave blank.
-contract_address: 0xa0246c9032bc3a600820415ae600c6388619a14d
+contract_address: "0xa0246c9032bc3a600820415ae600c6388619a14d"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
