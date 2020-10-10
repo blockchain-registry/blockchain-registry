@@ -16,10 +16,10 @@ taxonomies/tags:
  - Derivatives
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: 
+description: UMA is a decentralized protocol to enable the creation, maintenance, and settlement of financial contracts for any underlying asset. We propose novel systems for maintaining collateral and confirming off-chain information to enable market participants to trade with confidence and transparency.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: A Protocol for Building Synthetic Assets
+summary: UMA is a protocol for building synthetic assets.
  
 # The year the project was founded.
 founded: 2018
@@ -75,7 +75,7 @@ token: Yes
 ticker: UMA
 
 # Project main contract address.
-contract_address: 0x04fa0d235c4abf4bcf4787af4cf447de572ef828
+contract_address: "0x04fa0d235c4abf4bcf4787af4cf447de572ef828"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
