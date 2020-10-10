@@ -86,7 +86,7 @@ token: Yes
 ticker: SNX
 
 # Project main contract address.
-contract_address: 0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f
+contract_address: "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
