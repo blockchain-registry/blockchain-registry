@@ -42,6 +42,7 @@ development:
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
+ Whitepaper: "https://0x.org/pdfs/0x_white_paper.pdf"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
