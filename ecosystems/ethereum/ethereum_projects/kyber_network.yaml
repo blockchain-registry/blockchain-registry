@@ -2,71 +2,93 @@
 title: Kyber Network
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories:
+taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags.
 taxonomies/tags:
+ - Dex
+ - Decentralized Exchange
+ - Exchange-based Tokens
+ - Defi
+ - Decentralized Finance
+ - Governance
+ - Amm
+ - Automated Market Maker (AMM)
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description:
+description: Kyber is a blockchain-based liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary:
+summary: Seamless Token Swaps, Anywhere. liquidity protocol powering instant and secure token exchange.
  
 # The year the project was founded.
-founded:
+founded: 2016
 
 # Is the project launched, if yes, what year.
-launch_date:
+launch_date: 2018
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status:
+Status: Live
 
 # Is the project open source. YES or NO.
-open_source:
+open_source: Yes
  
 # Is the project forked. YES or NO.
-forked:
+forked: No
  
 # If the project is forked. What project is it forked from.
 forked_from:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
+ Github: "https://github.com/kybernetwork"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
+ Whitepaper: "https://files.kyber.network/Kyber_Protocol_22_April_v0.1.pdf"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
+ ChainSecurity:
+  Expert Security Audit: "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_KyberNetwork.pdf"
+ SmartDec:
+  Security Analysis: "https://blog.smartdec.net/kyber-network-smart-contracts-security-analysis-508d0a0f8637"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
+ Kyber.network: "https://kyber.network/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
+ Twitter: "https://twitter.com/kybernetwork"
+ Discord: "https://discord.com/invite/NfFMVz6"
+ Reddit: "https://www.reddit.com/r/kybernetwork/"
+ Medium: "https://blog.kyber.network/"
+ Youtube: "https://www.youtube.com/channel/UCQ-8mEqsKM3x9dTT6rrqgJw"
+ Facebook: "https://www.facebook.com/kybernetwork"
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token:
+token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
+ticker: KNC
 
 # Project main contract address.
-contract_address:
+contract_address: "0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
-ecosystem:
+ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
+ 0x
 
 # Governance attributes.
 governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized:
+decentralized: No
