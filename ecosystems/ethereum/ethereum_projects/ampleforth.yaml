@@ -17,7 +17,7 @@ taxonomies/tags:
 description: Ampleforth is a decentralized elastic supply protocol. It maintains a stable unit price by adjusting supply directly to and from wallet holders.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: The elastic supply protocol AMPL is a cryptocurrency like Bitcoin, but with a twist: supply changes daily.
+summary: The elastic supply protocol AMPL is a cryptocurrency like Bitcoin, but with a twist - supply changes daily.
  
 # The year the project was founded.
 founded: 2018
