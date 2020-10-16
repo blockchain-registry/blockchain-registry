@@ -6,12 +6,15 @@ taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags.
 taxonomies/tags:
+ - Governance
+ - Yield Farming
+ - Rebase Tokens
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description:
+description: At its core, YAM is an elastic supply cryptocurrency, which expands and contracts supply in response to market conditions, initially targeting 1 yUSD per YAM. a portion of each supply expansion is used to buy yUSD and added it to the Yam treasury, which is controlled via Yam community governance.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary:
+summary: YAM is an elastic supply cryptocurrency that expands and contracts to targeting 1 yUSD per YAM.
  
 # The year the project was founded.
 founded: 2020
@@ -33,43 +36,54 @@ forked_from:
  - Compound
  - Ampleforth
  - Yearn Finance
+ - Trustwallet
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
+ Github: "https://github.com/yam-finance"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
+ PeckShield:
+  YAMv3 Audit: "https://github.com/yam-finance/yamV3/blob/master/PeckShield-Audit-Report-YAMv3-v1.0.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
+ yam.finance: "https://yam.finance"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
+ Twitter: "https://twitter.com/YamFinance"
+ Discord: "https://discord.com/invite/nKKhBbk"
+ Reddit: "https://www.reddit.com/r/YamProtocol/"
+ Snapshot: "https://snapshot.page/#/yam"
+ Forum: "https://forum.yam.finance"
+ Docs: "https://docs.yam.finance"
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token:
+token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
+ticker: YAM
 
 # Project main contract address.
-contract_address:
+contract_address: "0x0aacfbec6a24756c20d41914f2caba817c0d8521"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
-ecosystem:
+ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
 
 # Governance attributes.
-governance:
+governance: On Chain
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized:
+decentralized: Yes
