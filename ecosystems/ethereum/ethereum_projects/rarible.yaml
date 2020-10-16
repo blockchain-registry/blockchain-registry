@@ -1,0 +1,87 @@
+# Project name and or title.
+title: Rarible
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: collectibles
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags:
+ - non-fungible
+ - art
+ - illustrations
+ - auction
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Rarible is a NFT (non-fungible token) platform for securing digital collectibles and a marketplace where you can create (mint) buy, and sell digital collectibles
+ 
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary:Rarible is a NFT (non-fungible token) platform for securing digital collectibles and a marketplace where you can create (mint) buy, and sell digital collectibles
+ 
+# The year the project was founded.
+founded: 2020
+
+# Is the project launched, if yes, what year.
+launch_date: 2020 
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status:
+
+# Is the project open source. YES or NO.
+open_source: No
+ 
+# Is the project forked. YES or NO.
+forked: Yes
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+ - Trustwallet
+ - Balancer
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: "https://github.com/rarible"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ rarible.com: "https://app.rarible.com/?sort=latest&verified=true"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://www.instagram.com/rariblecom/"
+ Discord: "https://discord.com/invite/dnnhHkh"
+ Telegram: "https://t.me/rarible"
+ Instagram: "https://www.instagram.com/rariblecom/"
+ 
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: RARI
+
+# Project main contract address.
+contract_address:
+ "0xfca59cd816ab1ead66534d82bc21e7515ce441cf" 
+ 
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance: Signalling onchain
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
