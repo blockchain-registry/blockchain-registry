@@ -12,11 +12,11 @@ taxonomies/tags:
  - auction
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: Rarible is a NFT (non-fungible token) platform for securing digital collectibles and a marketplace where you can create (mint) buy, and sell digital collectibles
+description: Rarible is a NFT (non-fungible token) platform for securing digital collectibles and a marketplace where you can create (mint) buy, and sell digital collectibles.
  
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary:Rarible is a NFT (non-fungible token) platform for securing digital collectibles and a marketplace where you can create (mint) buy, and sell digital collectibles
+summary: Rarible is a NFT (non-fungible token) platform for securing digital collectibles and a marketplace.
  
 # The year the project was founded.
 founded: 2020
@@ -25,7 +25,7 @@ founded: 2020
 launch_date: 2020 
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status:
+Status: Live
 
 # Is the project open source. YES or NO.
 open_source: No
@@ -71,8 +71,7 @@ token: Yes
 ticker: RARI
 
 # Project main contract address.
-contract_address:
- "0xfca59cd816ab1ead66534d82bc21e7515ce441cf" 
+contract_address: "0xfca59cd816ab1ead66534d82bc21e7515ce441cf" 
  
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
