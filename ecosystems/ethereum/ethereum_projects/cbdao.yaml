@@ -36,23 +36,22 @@ forked_from:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
-Github: "https://github.com/coinbreeder/CBDAO-General"
+ Github: "https://github.com/coinbreeder/CBDAO-General"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
-Github: "https://github.com/coinbreeder/CBDAO-General"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
-coinbreeder.com: "https://coinbreeder.com/"
+ coinbreeder.com: "https://coinbreeder.com/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
-Twitter: "https://twitter.com/CoinBreeder"
-Telegram: "https://t.me/coinbreederDAO"
+ Twitter: "https://twitter.com/CoinBreeder"
+ Telegram: "https://t.me/coinbreederDAO"
 
 #--------------------------------------------------------------------------------
 
