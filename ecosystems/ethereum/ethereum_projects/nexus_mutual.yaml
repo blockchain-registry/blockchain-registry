@@ -2,71 +2,84 @@
 title: Nexus Mutual
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories:
+taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags.
 taxonomies/tags:
+ - Insurance
+ - Decentralized Finance
+ - DeFi
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description:
+description: Nexus Mutual is a decentralised alternative to insurance. We’ve used blockchain technology to create a mutual (a risk sharing pool) to return the power of insurance to the people. The platform is built on the Ethereum public chain. It allows anyone to become a member and buy cover.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary:
+summary: Nexus Mutual offers DeFi investors “cover” or “protection” against smart contract failure.
  
 # The year the project was founded.
-founded:
+founded: 2017
 
 # Is the project launched, if yes, what year.
-launch_date:
+launch_date: 2020
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status:
+Status: Live
 
 # Is the project open source. YES or NO.
-open_source:
+open_source: Yes
  
 # Is the project forked. YES or NO.
-forked:
+forked: No
  
 # If the project is forked. What project is it forked from.
 forked_from:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
+ Github: "https://github.com/NexusMutual"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
+ Whitepaper: "https://nexusmutual.io/assets/docs/nmx_white_paperv2_3.pdf"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
+ Solidified:
+  Audit report: "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Nexus%20Mutual%20%5B22.04.2019%5D.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
+ Nexusmutual.io: "https://nexusmutual.io"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
+ Twitter: "https://twitter.com/NexusMutual"
+ Discord: "https://discord.com/invite/xxFaAEn"
+ Telegram: "https://t.me/joinchat/K_g-fA-3CmFwXumCKQUXkw"
+ Medium: "https://medium.com/nexus-mutual"
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token:
+token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
+ticker: NXM
 
 # Project main contract address.
-contract_address:
+contract_address: "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem:
+Ethereum
  
 # List of other blockchain projects that are integrated into this one.
-integrations:
+integrations: 
 
 # Governance attributes.
-governance:
+governance: 
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized:
+decentralized: Yes
