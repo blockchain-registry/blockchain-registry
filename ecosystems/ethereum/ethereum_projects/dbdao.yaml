@@ -1,72 +1,80 @@
 # Project name and or title.
-title:
+title: Coinbreeder
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories:
+taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags.
-taxonomies/tags:
+taxonomies/tags: 
+ - Yieldfarming
+ - Defi
+ - Dao
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description:
+description: Coinbreeder CBDAO has been created to serve as a sandbox for users to experiment and proof-test various consensus protocols which help govern DAOs. The initial consensus mechanism put in place will be the ‘Incentivized Governance Protocol’, a model invented by CBDAO which simplifies and combines the solutions of the holographic consensus model on a completely decentralized level
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary:
+summary: CBDAO has been created to serve as a sandbox for users to experiment and proof-test various consensus protocols which help govern DAOs
  
 # The year the project was founded.
-founded:
+founded: 2020
 
 # Is the project launched, if yes, what year.
-launch_date:
+launch_date: 2020
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status:
+Status: Scam
 
 # Is the project open source. YES or NO.
-open_source:
+open_source: Yes
  
 # Is the project forked. YES or NO.
-forked:
+forked: NO
  
 # If the project is forked. What project is it forked from.
 forked_from:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
+Github: "https://github.com/coinbreeder/CBDAO-General"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
+Github: "https://github.com/coinbreeder/CBDAO-General"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
+coinbreeder.com: "https://coinbreeder.com/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
+Twitter: "https://twitter.com/CoinBreeder"
+Telegram: "https://t.me/coinbreederDAO"
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token:
+token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
+ticker: BREE
 
 # Project main contract address.
-contract_address:
+contract_address: 0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
-ecosystem:
+ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
 
 # Governance attributes.
-governance:
+governance: 
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized:
+decentralized: No
