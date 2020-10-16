@@ -1,0 +1,95 @@
+# Project name and or title.
+title: Ampleforth
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Money
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags:
+ - Money
+ - Defi
+ - Decentralized Finance
+ - Rebase Tokens
+ - Stablecoins
+ - Payments
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Ampleforth is a decentralized elastic supply protocol. It maintains a stable unit price by adjusting supply directly to and from wallet holders.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: The elastic supply protocol AMPL is a cryptocurrency like Bitcoin, but with a twist: supply changes daily.
+ 
+# The year the project was founded.
+founded: 2018
+
+# Is the project launched, if yes, what year.
+launch_date: 2018
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: "https://github.com/ampleforth"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+ Whitepaper: "https://drive.google.com/file/d/1I-NmSnQ6E7wY1nyouuf-GuDdJWNCnJWl/view"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+ SlowMist and TrailOfBits:
+  Security Audits: "https://github.com/ampleforth/ampleforth-audits/blob/master/ampleforth-core/v1.0.0/Ampleforth-Audit-Actions.pdf"
+ TrialOfBits:
+  Protocol security Assessment: "https://github.com/ampleforth/ampleforth-audits/blob/master/ampleforth-core/v1.0.0/Trail-Of-Bits-Audit.pdf"
+ SlowMist:
+  Contract Audit: "https://github.com/ampleforth/ampleforth-audits/blob/master/ampleforth-core/v1.0.0/SlowMist-Audit.pdf"
+ Quantstamp:
+  Contract Audit: "https://github.com/ampleforth/ampleforth-audits/blob/master/ampleforth-core/v1.0.0/Quantstamp-Audit.pdf"
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ Ampleforth: "https://www.ampleforth.org"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/ampleforthorg"
+ Telegram: "https://t.me/Ampleforth"
+ Discord: "https://discord.com/invite/mptQ49m"
+ Forum: "https://www.ampltalk.org"
+ Facebook: "https://www.facebook.com/ampleforthprotocol/"
+
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: AMPL
+
+# Project main contract address.
+contract_address: "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance: 
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No

@@ -1,0 +1,87 @@
+# Project name and or title.
+title: 0x
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Defi
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags:
+ - Defi
+ - Decentralized Finance
+ - Protocol
+ - Dex
+ - Decentralized Exchange
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: 0x is a protocol that facilitates the peer-to-peer exchange of Ethereum-based assets. The protocol serves as an open standard and common building block for any developer needing exchange functionality.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: 0x is a protocol that facilitates the peer-to-peer exchange of Ethereum-based assets.
+ 
+# The year the project was founded.
+founded: 2016
+
+# Is the project launched, if yes, what year.
+launch_date: 2018
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Guthub: "https://github.com/0xProject"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+ Whitepaper: "https://0x.org/pdfs/0x_white_paper.pdf"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+ ConsenSys Diligence:
+  MultiAssetProxy: "https://github.com/ConsenSys/0x-audit-report-2018-12"
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ 0x.org: "https://0x.org/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/0xproject"
+ Discord: "https://discord.com/invite/d3FTX3M"
+ Facebook: "https://www.facebook.com/0xProject/"
+ Reddit: "https://www.reddit.com/r/0xProject/"
+ Forum: "https://forum.0x.org/"
+ 
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: ZRX
+
+# Project main contract address.
+contract_address: "0xe41d2489571d322189246dafa5ebde1f4699f498"
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
