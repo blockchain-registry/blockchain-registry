@@ -65,7 +65,7 @@ token: Yes
 ticker: BREE
 
 # Project main contract address.
-contract_address: 0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f
+contract_address: "0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
