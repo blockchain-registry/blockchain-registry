@@ -2,71 +2,92 @@
 title: mStable
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories:
+taxonomies/categories: Defi
 
 # For any further category specification feel free to add multible tags.
 taxonomies/tags:
+ - Decentralized Finance
+ - Defi
+ - Governance
+ - Dex
+ - Decentralized Exchange
+ - Swapping
+ - Yield Farming
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description:
+description: mStable unites stablecoins, lending and swapping into one standard. By reducing complexity and fragmentation, mStable is a step-change in the usability of stablecoins.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary:
+summary: mStable unites stablecoins, lending and swapping into one standard.
  
 # The year the project was founded.
-founded:
+founded: 2018
 
 # Is the project launched, if yes, what year.
-launch_date:
+launch_date: 2020
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status:
+Status: Live
 
 # Is the project open source. YES or NO.
-open_source:
+open_source: Yes
  
 # Is the project forked. YES or NO.
-forked:
+forked: Yes
  
 # If the project is forked. What project is it forked from.
 forked_from:
+ - Curve
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
+ Github: "https://github.com/mstable"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
+ Whitepaper: "https://docs.mstable.org"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
+ ConsenSys Diligence:
+  mStable 1.1 protocol audit: "https://diligence.consensys.net/audits/2020/07/mstable-1.1/"
+ Bramah Systems:
+  mStable Contracts Audit: "https://cdn.discordapp.com/attachments/694377756905177111/752886627721936976/mStable_Audit_--_Bramah_Systems.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
+ mstable.org: "https://mstable.org"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
+ Twitter: "https://twitter.com/mstable_"
+ Discord: "https://discord.com/invite/pgCVG7e"
+ Medium: "https://medium.com/mstable"
+ Forum: "https://forum.mstable.org"
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token:
+token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
+ticker: MTA
 
 # Project main contract address.
-contract_address:
+contract_address: "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
-ecosystem:
+ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
+ - Balancer
+ - Uniswap
 
 # Governance attributes.
 governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized:
+decentralized: No
