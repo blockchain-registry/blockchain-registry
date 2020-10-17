@@ -1,0 +1,82 @@
+# Project name and or title.
+title: Moloch Dao
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Infrastructure
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags: 
+ - Dao
+ - Cooperative
+ - Philantropy
+ - Grants
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: A decentralized autonomous organization for funding community grants and Ethereum development
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: A decentralized autonomous organization for funding community grants and Ethereum development
+ 
+# The year the project was founded.
+founded: 2018
+
+# Is the project launched, if yes, what year.
+launch_date: 2018
+
+# Project status. Choose one of the following: Development, Live, Dead, Scam. 
+status: Live
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development: 
+ Github: "https://github.com/MolochVentures"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+ whitepaper:"https://github.com/MolochVentures/Whitepaper/blob/master/Whitepaper.pdf"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ molochdao.com: "https://www.molochdao.com/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ -Twitter: "https://twitter.com/MolochDAO"
+ -Medium: "https://medium.com/@molochdao"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: NO
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker:
+
+# Project main contract address. If the project dont have a token leave blank.
+contract_address:
+ "0x1fd169A4f5c59ACf79d0Fd5d91D1201EF1Bce9f1"
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes. Each item must be on a new line starting with a dash.
+governance: Onchain
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: Yes
