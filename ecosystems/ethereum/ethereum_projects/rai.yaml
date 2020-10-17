@@ -61,7 +61,7 @@ community:
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token:
+token: No
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
 ticker:
