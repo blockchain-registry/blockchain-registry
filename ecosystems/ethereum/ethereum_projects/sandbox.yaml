@@ -42,6 +42,11 @@ whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
+ Certik:
+  Smart Contracts & Token Wrappers: https://certik-public-assets.s3.amazonaws.com/REP-SandBox-19_08_2020.pdf
+  Smart Contracts & Token: https://certik-public-assets.s3.amazonaws.com/REP-SandBox-18_05_2020.pdf
+  Audit Report: https://certik-public-assets.s3.amazonaws.com/CertiK%20Verification%20Report%20for%20The%20Sandbox.pdf
+  CommonMinter: https://certik-public-assets.s3.amazonaws.com/CertiK%20Verification%20Report%20for%20The%20Sandbox(CommonMinter).pdf
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
