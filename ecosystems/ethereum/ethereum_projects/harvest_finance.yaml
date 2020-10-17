@@ -8,6 +8,7 @@ categories: Defi
 tags:
  - Defi
  - Yield Farming
+ - Farming
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
 description: Harvest automatically farms the highest yield available from the newest DeFi protocols, and optimizes the yields that are received using the latest farming techniques.
