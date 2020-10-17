@@ -1,0 +1,85 @@
+# Project name and or title.
+title: Sandbox
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Entertainment
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags:
+ - Entertainment
+ - Non-Fungible Tokens
+ - NFT
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences. The blockchain gaming platform consists of three integrated products that together provide a comprehensive experience for user-generated content (UGC) production.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain.
+ 
+# The year the project was founded.
+founded: 2011
+
+# Is the project launched, if yes, what year.
+launch_date: 2019
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: No
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper: 
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ Sandbox.game: "https://www.sandbox.game/en/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/TheSandboxGame"
+ Telegram: "https://telegram.org"
+ Discord: "https://discord.com/invite/vAe4zvY"
+ Instagram: "https://www.instagram.com/thesandboxgame/"
+ Facebook: "https://www.facebook.com/TheSandboxGame/"
+ Youtube: "https://www.youtube.com/channel/UCzv1t7voB-bxMmXLysT4h0w?sub_confirmation=1"
+ Twitch: "https://www.twitch.tv/thesandboxgame"
+ Medium: "https://medium.com/sandbox-game"
+ Blog: "https://www.sandbox.game/en/blog/"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: SAND
+
+# Project main contract address.
+contract_address: "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
