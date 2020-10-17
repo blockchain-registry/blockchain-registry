@@ -1,0 +1,87 @@
+# Project name and or title.
+title: Verify
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Defi
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags:
+ - Decentralized Finance
+ - Defi
+ - Payments
+ - Fintech
+ - Reputation protocol
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Verify is a distributed reputation protocol deployed on the Ethereum blockchain that monitors and continually updates the reputation of the various parties involved in a transaction. This results in a public, provably valid reputation record for buyers and sellers as rated by their counterparties.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Verify is a distributed reputation protocol.
+ 
+# The year the project was founded.
+founded: 2016
+
+# Is the project launched, if yes, what year.
+launch_date: 2018
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Ghost
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: "https://github.com/verifyas"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+ Whitepaper: "https://token.verify.as/files/whitepaper.pdf"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ Verify.as: "https://verify.as"
+ Token.verify.as: "https://token.verify.as"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/verif_yas"
+ Telegram: "https://t.me/verifyas_community"
+ Reddit: "https://www.reddit.com/r/verifyas/"
+ Facebook: "https://www.facebook.com/verifyas/"
+ Bitcointalk: "https://bitcointalk.org/index.php?topic=2374729.0"
+ Medium: "https://medium.com/@verify.as"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: CREED
+
+# Project main contract address.
+contract_address: "0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd"
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
