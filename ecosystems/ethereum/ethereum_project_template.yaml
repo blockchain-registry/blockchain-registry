@@ -25,9 +25,6 @@ Status:
 # Is the project open source. YES or NO.
 open_source:
  
-# Is the project forked. YES or NO.
-forked:
- 
 # If the project forks software from other projects list the project names here.
 forks:
 
