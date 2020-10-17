@@ -1,11 +1,11 @@
-# Project name and or title.
-title: Basic Attention Token
+# Project name.
+name: Basic Attention Token
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories: Entertainment
+categories: Entertainment
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
-taxonomies/tags:
+tags:
 - Media and Entertainment
 - Advertising
 - Rewards
@@ -31,8 +31,8 @@ open_source: Yes
 # Is the project forked. YES or NO.
 forked:
  
-# If the project is forked. What project is it forked from.
-forked_from:
+# If the project forks software from other projects list the project names here.
+forks:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:

@@ -1,11 +1,11 @@
-# Project name and or title.
-title: mStable
+# Project name.
+name: mStable
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories: Defi
+categories: Defi
 
 # For any further category specification feel free to add multible tags.
-taxonomies/tags:
+tags:
  - Decentralized Finance
  - Defi
  - Governance
@@ -32,11 +32,8 @@ Status: Live
 # Is the project open source. YES or NO.
 open_source: Yes
  
-# Is the project forked. YES or NO.
-forked: Yes
- 
-# If the project is forked. What project is it forked from.
-forked_from:
+# If the project forks software from other projects list the project names here.
+forks:
  - Curve
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".

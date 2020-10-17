@@ -1,11 +1,11 @@
-# Project name and or title.
-title: Rarible
+# Project name.
+name: Rarible
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories: collectibles
+categories: collectibles
 
 # For any further category specification feel free to add multible tags.
-taxonomies/tags:
+tags:
  - non-fungible
  - art
  - illustrations
@@ -30,11 +30,8 @@ Status: Live
 # Is the project open source. YES or NO.
 open_source: No
  
-# Is the project forked. YES or NO.
-forked: Yes
- 
-# If the project is forked. What project is it forked from.
-forked_from:
+# If the project forks software from other projects list the project names here.
+forks:
  - Trustwallet
  - Balancer
 

@@ -21,8 +21,8 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 |    Label    | Description                                                                                                                                                                                                                                                                                   |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  `Title`   | Project name and or titel  .        |
-|  `taxonomies/categories`   | Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.       |
-|  `taxonomies/tags`   | For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.         |
+|  `categories`   | Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.       |
+|  `tags`   | For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.         |
 |  `Discription`   | Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.          |
 |  `Summary`   | Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.          |
 |  `Founded`   | The year the project was founded.          |

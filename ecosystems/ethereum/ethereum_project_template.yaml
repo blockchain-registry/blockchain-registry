@@ -1,11 +1,11 @@
-# Project name and or title.
-title:
+# Project name.
+name:
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories:
+categories:
 
 # For any further category specification feel free to add multible tags.
-taxonomies/tags:
+tags:
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
 description:
@@ -28,8 +28,8 @@ open_source:
 # Is the project forked. YES or NO.
 forked:
  
-# If the project is forked. What project is it forked from.
-forked_from:
+# If the project forks software from other projects list the project names here.
+forks:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:

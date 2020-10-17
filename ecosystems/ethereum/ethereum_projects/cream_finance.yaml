@@ -1,11 +1,11 @@
-# Project name and or title.
-title: C.R.E.A.M. Finance
+# Project name.
+name: C.R.E.A.M. Finance
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories: Defi
+categories: Defi
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
-taxonomies/tags:
+tags:
 - Defi
 - Decentralized Finance
 - Governance
@@ -29,11 +29,8 @@ status: Live
 # Is the project open source. YES or NO.
 open_source: No
  
-# Is the project forked. YES or NO.
-forked: Yes
- 
-# If the project is forked. What project is it forked from.
-forked_from: compound
+# If the project forks software from other projects list the project names here.
+forks: compound
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:

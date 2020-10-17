@@ -1,11 +1,11 @@
-# Project name and or title.
-title: Yearn Finance
+# Project name.
+name: Yearn Finance
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories: Defi
+categories: Defi
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
-taxonomies/tags:
+tags:
 - Decentralized Finance
 - Governance
 - Yield Farming
@@ -29,11 +29,8 @@ status: Live
 # Is the project open source. YES or NO.
 open_source: Yes
  
-# Is the project forked. YES or NO.
-forked: No
- 
-# If the project is forked. What project is it forked from.
-forked_from:
+# If the project forks software from other projects list the project names here.
+forks:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:

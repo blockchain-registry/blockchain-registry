@@ -1,11 +1,11 @@
-# Project name and or title.
-title: Harvest Finance
+# Project name.
+name: Harvest Finance
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories: Defi
+categories: Defi
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
-taxonomies/tags:
+tags:
  - Defi
  - Yield Farming
 
@@ -27,11 +27,8 @@ Status: Live
 # Is the project open source. YES or NO.
 open_source: Yes
  
-# Is the project forked. YES or NO.
-forked: Yes
- 
-# If the project is forked. What project is it forked from.
-forked_from:
+# If the project forks software from other projects list the project names here.
+forks:
  - Compound
  - Curve
  - Uniswap
