@@ -2,7 +2,7 @@
 title: Basic Attention Token
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-taxonomies/categories: Money
+taxonomies/categories: Entertainment
 
 # For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
 taxonomies/tags:
