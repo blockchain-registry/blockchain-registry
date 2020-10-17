@@ -1,0 +1,79 @@
+# Project name and or title.
+title: Loom Network
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+taxonomies/categories: Entertainment
+
+# For any further category specification feel free to add multible tags.
+taxonomies/tags:
+ - Entertainment
+ - Gaming
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Building a distributed enterprise platform for managing data — focused on healthcare providers and government departments.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Distributed Enterprise Platform for Healthcare Providers.
+ 
+# The year the project was founded.
+founded: 2018
+
+# Is the project launched, if yes, what year.
+launch_date: 2019
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Ghost
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# Is the project forked. YES or NO.
+forked: No
+ 
+# If the project is forked. What project is it forked from.
+forked_from:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: "https://github.com/loomnetwork"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ Loomx.io: "https://loomx.io"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/loomnetwork"
+ Telegram: "https://t.me/loomnetwork"
+ Medium: "https://medium.com/@loomnetwork"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: LOOM
+
+# Project main contract address.
+contract_address: "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
