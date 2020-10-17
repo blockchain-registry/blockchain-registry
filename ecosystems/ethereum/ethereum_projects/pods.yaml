@@ -1,0 +1,82 @@
+# Project name.
+name: Pods
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+categories: Finance
+
+# For any further category specification feel free to add multible tags.
+tags:
+ - Defi
+ - Decentralized Finance
+ - Defi Options
+ - Options protocol
+ - Fintech
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Pods is a decentralized non-custodial options protocol where users can participate as sellers or buyers of either puts or calls. Our options are continuous time instruments as they are American options and they are set to work with physical settlement, leaving no exposure to price oracles and liquidation systems.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Pods is a decentralized non-custodial options protocol where users can participate as sellers or buyers of either puts or calls.
+ 
+# The year the project was founded.
+founded: 2019
+
+# Is the project launched, if yes, what year.
+launch_date:
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Development
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# If the project forks software from other projects list the project names here.
+forks:
+ - Uniswap
+ - ohmydai!
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: "https://github.com/pods-finance"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ Pods.finance: "https://www.pods.finance"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/podsfinance"
+ Discord: "https://discord.com/invite/Qf7utym"
+ Medium: "https://medium.com/podsfinance"
+ Docs: "https://docs.pods.finance"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: No
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker:
+
+# Project main contract address.
+contract_address:
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem:
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized:
