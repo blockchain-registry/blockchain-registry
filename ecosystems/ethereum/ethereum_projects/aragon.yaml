@@ -1,30 +1,29 @@
 # Project name.
-name: Moloch Dao
+name: Aragon
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 categories: Infrastructure
 
 # For any further category specification feel free to add multible tags.
-tags: 
+tags:
+ - Onchain governance
  - Dao
- - Cooperative
- - Philantropy
- - Grants
+ - Court
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: A decentralized autonomous organization for funding community grants and Ethereum development
+description: Aragon gives internet communities the power to organize around shared values and resources through dao's. Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive. The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: A decentralized autonomous organization for funding community grants and Ethereum development
+summary: Aragon gives internet communities the power to organize around shared values and resources through dao's.
  
 # The year the project was founded.
-founded: 2018
+founded: 2016
 
 # Is the project launched, if yes, what year.
-launch_date: 2018
+launch_date: 2017
 
-# Project status. Choose one of the following: Development, Live, Dead, Scam. 
-status: Live
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
 
 # Is the project open source. YES or NO.
 open_source: Yes
@@ -33,47 +32,55 @@ open_source: Yes
 forks:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
-development: 
- Github: "https://github.com/MolochVentures"
+development:
+ Github: "https://github.com/aragon"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
- whitepaper:"https://github.com/MolochVentures/Whitepaper/blob/master/Whitepaper.pdf"
+ Whitepaper: "https://github.com/aragon/whitepaper"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
+ White Hat Group:
+ aragonOS Code Review: "https://wiki.aragon.org/association/security/audits/audit_whg_updated_aragonOS-Apps.pdf"
+ Consensys Dilligence:
+ Aragon Apps Audit: "https://github.com/ConsenSys/aragon_audit_report_2018-06-04_extended/blob/master/Aragon-Audit-final.md"
+ Payroll Application Audit: "https://github.com/ConsenSys/aragon-payroll-audit-report-2019-06"
+ DAO Templates Audit: "https://github.com/ConsenSys/aragon-daotemplates-audit-report-2019-08"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- molochdao.com: "https://www.molochdao.com/"
+ aragon.org: "https://aragon.org/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
- -Twitter: "https://twitter.com/MolochDAO"
- -Medium: "https://medium.com/@molochdao"
+ Twitter: "https://twitter.com/AragonProject"
+ Reddit: "https://www.reddit.com/r/aragonproject/"
+ Discord: "https://discord.com/invite/eqQJkdp"
+ Youtube: "https://www.youtube.com/channel/UCODiU_-FWhr4SVOoBlm-qaQ"
+ Forum: "https://forum.aragon.org/"
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token: No
+token: Yes
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker:
+ticker: ANT
 
-# Project main contract address. If the project dont have a token leave blank.
-contract_address:
- "0x1fd169A4f5c59ACf79d0Fd5d91D1201EF1Bce9f1"
+# Project main contract address.
+contract_address: "0x960b236a07cf122663c4303350609a66a7b288c0"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one.
-integrations:
+integrations: 
 
-# Governance attributes. Each item must be on a new line starting with a dash.
+# Governance attributes.
 governance: Onchain
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: Yes
+decentralized: NO

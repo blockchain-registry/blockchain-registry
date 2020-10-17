@@ -1,89 +1,82 @@
 # Project name.
-name: Harvest Finance
+name: Pods
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
 categories: Defi
 
-# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+# For any further category specification feel free to add multible tags.
 tags:
  - Defi
- - Yield Farming
- - Farming
+ - Decentralized Finance
+ - Defi Options
+ - Options protocol
+ - Fintech
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: Harvest automatically farms the highest yield available from the newest DeFi protocols, and optimizes the yields that are received using the latest farming techniques.
+description: Pods is a decentralized non-custodial options protocol where users can participate as sellers or buyers of either puts or calls. Our options are continuous time instruments as they are American options and they are set to work with physical settlement, leaving no exposure to price oracles and liquidation systems.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: Harvest automatically farms the highest yield available from the newest DeFi protocols.
+summary: Pods is a decentralized non-custodial options protocol where users can participate as sellers or buyers of either puts or calls.
  
 # The year the project was founded.
-founded: 2020
+founded: 2019
 
 # Is the project launched, if yes, what year.
-launch_date: 2020
+launch_date:
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status: Live
+Status: Development
 
 # Is the project open source. YES or NO.
 open_source: Yes
  
 # If the project forks software from other projects list the project names here.
 forks:
- - Compound
- - Curve
  - Uniswap
- - Synthetix
+ - ohmydai!
 
-# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
- Github: "https://github.com/harvest-finance"
+ Github: "https://github.com/pods-finance"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
 
-# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- Harvest.Finance: "https://harvest.finance/"
+ Pods.finance: "https://www.pods.finance"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
- Reddit: "https://www.reddit.com/r/HarvestFinance/"
- Twitter: "https://twitter.com/harvest_finance"
- Medium: "https://medium.com/harvest-finance"
- Discord: "https://discord.com/invite/R5SeTVR"
- Community Wiki: "https://farm.chainwiki.dev/en/home"
+ Twitter: "https://twitter.com/podsfinance"
+ Discord: "https://discord.com/invite/Qf7utym"
+ Medium: "https://medium.com/podsfinance"
+ Docs: "https://docs.pods.finance"
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token: Yes
+token: No
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker: FARM
+ticker:
 
-# Project main contract address. If the project dont have a token leave blank.
-contract_address: "0xa0246c9032bc3a600820415ae600c6388619a14d"
+# Project main contract address.
+contract_address:
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
-ecosystem: Ethereum
+ecosystem:
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
- Curve
- Balancer
- Compound
- mStable
- Cream Finance
- Uniswap
 
 # Governance attributes.
 governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: No
+decentralized:

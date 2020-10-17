@@ -1,89 +1,84 @@
 # Project name.
-name: Harvest Finance
+name: Rai
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-categories: Defi
+categories: Money
 
-# For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.
+# For any further category specification feel free to add multible tags.
 tags:
  - Defi
- - Yield Farming
- - Farming
+ - Decentralized Finance
+ - Reflex Index
+ - Reflex Bonds
+ - Fintech
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: Harvest automatically farms the highest yield available from the newest DeFi protocols, and optimizes the yields that are received using the latest farming techniques.
+description: The purpose of a reflex-index is to be a more stable representation of its collateral while still maintaining a high level of trustlessness. If used in other protocols, a reflex-index can shield its users against major and sudden moves in the cryptocurrency markets.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: Harvest automatically farms the highest yield available from the newest DeFi protocols.
+summary: A Low Volatility, Trust Minimized Collateral for the DeFi Ecosystem
  
 # The year the project was founded.
 founded: 2020
 
 # Is the project launched, if yes, what year.
-launch_date: 2020
+launch_date:
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
-Status: Live
+Status: Development
 
 # Is the project open source. YES or NO.
 open_source: Yes
  
 # If the project forks software from other projects list the project names here.
 forks:
- - Compound
- - Curve
- - Uniswap
- - Synthetix
+ - Makerdao
 
-# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
- Github: "https://github.com/harvest-finance"
+ Github: https://github.com/reflexer-labs
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
+ Whitepaper: https://github.com/reflexer-labs/whitepapers/blob/master/English/rai-english.pdf
 
-# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- Harvest.Finance: "https://harvest.finance/"
+ Reflexer.finance: https://www.reflexer.finance/
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
- Reddit: "https://www.reddit.com/r/HarvestFinance/"
- Twitter: "https://twitter.com/harvest_finance"
- Medium: "https://medium.com/harvest-finance"
- Discord: "https://discord.com/invite/R5SeTVR"
- Community Wiki: "https://farm.chainwiki.dev/en/home"
+ Twitter: https://twitter.com/MetaCoinProject
+ Discord: https://discord.com/invite/83t3xKT
+ Telegram: https://t.me/joinchat/Dp-hCVfCrf1zfCP5q2VI9w
+ Medium: https://medium.com/reflexer-labs
 
 #--------------------------------------------------------------------------------
 
 #Token info
 
 # Is the project tokenbased. YES or NO.
-token: Yes
+token: No
  
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker: FARM
+ticker:
 
-# Project main contract address. If the project dont have a token leave blank.
-contract_address: "0xa0246c9032bc3a600820415ae600c6388619a14d"
+# Project main contract address.
+contract_address:
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
-ecosystem: Ethereum
+ecosystem:
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
- Curve
- Balancer
- Compound
- mStable
- Cream Finance
- Uniswap
+ - Uniswap
+ - Chainlink
 
 # Governance attributes.
 governance:
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
-decentralized: No
+decentralized:
