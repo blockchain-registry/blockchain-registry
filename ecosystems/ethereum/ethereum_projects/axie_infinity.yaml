@@ -63,8 +63,7 @@ token: Yes
 ticker: SLP
 
 # Project main contract address.
-contract_address: 
- "0x37236cd05b34cc79d3715af2383e96dd7443dcf1"
+contract_address: "0x37236cd05b34cc79d3715af2383e96dd7443dcf1"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
