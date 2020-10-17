@@ -32,6 +32,13 @@ open_source: Yes
  
 # If the project forks software from other projects list the project names here.
 forks:
+ - Balancer
+ - Bancor
+ - dYdX
+ - Truffle Suite
+ - Metamask
+ - Trezor
+ - Ledger
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
