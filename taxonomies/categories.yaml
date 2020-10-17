@@ -1,7 +1,3 @@
-ecosystem: 
-  name: Ecosystem
-  description: Underlying fundamental systems that other projects build on.
-
 infrastructure: 
   name: Infrastructure
   description: Open-source software projects that are critical to the functionality of the blockchain or protocols that are easy to leverage by other projects in a given ecosystem.
