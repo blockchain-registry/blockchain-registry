@@ -82,7 +82,8 @@ ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
- 0x
+ - 0x
+ - Chainlink
 
 # Governance attributes.
 governance:

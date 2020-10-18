@@ -78,7 +78,8 @@ contract_address: "0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
 ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one. Each item must be on a new line starting with a dash.
-integrations: Chainlink
+integrations:
+ - Chainlink
 
 # Governance attributes. Each item must be on a new line starting with a dash.
 governance:

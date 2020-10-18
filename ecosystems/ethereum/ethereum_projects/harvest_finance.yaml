@@ -75,12 +75,12 @@ ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
- Curve
- Balancer
- Compound
- mStable
- Cream Finance
- Uniswap
+ - Curve
+ - Balancer
+ - Compound
+ - mStable
+ - Cream Finance
+ - Uniswap
 
 # Governance attributes.
 governance:
