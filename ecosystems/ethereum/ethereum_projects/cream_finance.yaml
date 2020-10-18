@@ -23,17 +23,26 @@ founded: 2020
 # Is the project launched, if yes, what year.
 launch_date: 2020
 
-# Project status. Choose one of the following: Development, Live, Ghoat, Scam. 
+# Project status. Choose one of the following: Development, Live, Ghost, Scam. 
 status: Live
 
 # Is the project open source. YES or NO.
 open_source: No
  
 # If the project forks software from other projects list the project names here.
-forks: compound
+forks:
+ Snapshot Labs:
+  Snapshot Spaces: "https://github.com/snapshot-labs/snapshot-spaces"
+ Compound:
+  The Compound On-Chain Protocol: "https://github.com/compound-finance/compound-protocol"
+ Trust Wallet:
+  Assets: "https://github.com/trustwallet/assets"
+ Defi Pulse:
+  DeFi Pulse Adapters: "https://github.com/ConcourseOpen/DeFi-Pulse-Adapters"
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
+ Github: "https://github.com/CreamFi"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 white_paper: 
