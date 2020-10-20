@@ -30,6 +30,8 @@ open_source: Yes
  
 # If the project forks software from other projects list the project names here.
 forks:
+
+
  - Compound
  - Curve
  - Uniswap
@@ -44,6 +46,10 @@ whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 security_audit:
+ PeckShield:
+  Smart Contract Audit Report: "https://github.com/harvest-finance/harvest/blob/master/audits/PeckShield-Harvest.pdf"
+ Haechi:
+  Smart Contract Audit Report: "https://github.com/harvest-finance/harvest/blob/master/audits/Haechi-Harvest.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
