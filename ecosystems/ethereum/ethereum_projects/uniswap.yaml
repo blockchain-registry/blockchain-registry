@@ -1,0 +1,85 @@
+# Project name.
+name: Uniswap
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+categories: Defi
+
+# For any further category specification feel free to add multible tags.
+tags:
+ - Defi
+ - Decentralized Finance
+ - Dex
+ - Decentraliced Exchange
+ - AMM
+ - Automated Market Maker
+ - Yield Farming
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Uniswap is a decentralized protocol for automated liquidity provision on Ethereum. Uniswap empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.
+ 
+# The year the project was founded.
+founded: 2018
+
+# Is the project launched, if yes, what year.
+launch_date: 2019
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: Yes
+ 
+# If the project forks software from other projects list the project names here.
+forks:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: "https://github.com/Uniswap"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+ Whitepaper: "https://uniswap.org/whitepaper.pdf"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+ dapp.org:
+  Uniswap V2 Audit Report: "https://dapp.org.uk/reports/uniswapv2.html"
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ uniswap.org: "https://uniswap.org"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/UniswapProtocol"
+ Discord: "https://discord.com/invite/XErMcTq"
+ Reddit: "https://www.reddit.com/r/UniSwap/"
+ Docs: "https://uniswap.org/docs/v2/governance/overview"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: UNI
+
+# Project main contract address.
+contract_address: "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
