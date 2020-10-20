@@ -1,0 +1,79 @@
+# Project name.
+name: Metamask
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+categories: Infrastructure
+
+# For any further category specification feel free to add multible tags.
+tags:
+ - Infrastructure
+ - Wallet
+ - Gateway
+ - Browser Extension
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: MetaMask provides the simplest yet most secure way to connect to blockchain-based applications. You are always in control when interacting on the new decentralized web. MetaMask generates passwords and keys on your device, so only you have access to your accounts and data. You always choose what to share and what to keep private.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: A crypto wallet & gateway to blockchain apps.
+ 
+# The year the project was founded.
+founded: 2015
+
+# Is the project launched, if yes, what year.
+launch_date: 2016
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: No
+ 
+# If the project forks software from other projects list the project names here.
+forks:
+ Vittorio Minacori:
+  Erc20-generator: https://github.com/MetaMask/erc20-generator
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: “https://github.com/MetaMask”
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ Metamask.io: “https://metamask.io/index.html”
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: “https://twitter.com/metamask_io”
+ Blog: “https://medium.com/metamask”
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: No
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker:
+
+# Project main contract address.
+contract_address:
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem:
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
