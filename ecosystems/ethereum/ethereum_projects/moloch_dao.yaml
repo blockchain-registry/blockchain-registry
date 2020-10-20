@@ -45,7 +45,7 @@ security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- molochdao.com: "https://www.molochdao.com/"
+ Molochdao.com: "https://www.molochdao.com/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:

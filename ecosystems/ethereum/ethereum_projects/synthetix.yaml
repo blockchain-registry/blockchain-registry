@@ -63,7 +63,7 @@ security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- synthetix.io: "https://www.synthetix.io/"
+ Synthetix.io: "https://www.synthetix.io/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:

@@ -60,7 +60,7 @@ security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website: 
- compound.finance: "https://compound.finance"
+ Compound.finance: "https://compound.finance"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:

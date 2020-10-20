@@ -32,7 +32,7 @@ forks:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
- "https://github.com/axieinfinity"
+ Github: "https://github.com/axieinfinity"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper: 

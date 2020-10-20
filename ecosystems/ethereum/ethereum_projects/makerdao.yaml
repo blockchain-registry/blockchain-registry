@@ -36,7 +36,7 @@ forks:
   POA Network Governance Dapp: "https://github.com/makerdao/poa-dapps-voting"
  Metamask:
   Provider Engine: "https://github.com/makerdao/provider-engine"
-  
+
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
@@ -55,7 +55,7 @@ security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- makerdao.com: "https://makerdao.com/en/"
+ Makerdao.com: "https://makerdao.com/en/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 community:
