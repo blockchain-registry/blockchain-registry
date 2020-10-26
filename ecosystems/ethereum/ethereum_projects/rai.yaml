@@ -46,7 +46,7 @@ security_audit:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- Reflexer.finance: "https://www.reflexer.finance/""
+ Reflexer.finance: "https://www.reflexer.finance/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
