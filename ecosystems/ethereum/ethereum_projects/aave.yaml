@@ -83,8 +83,7 @@ integrations:
 
 # Governance attributes. Each item must be on a new line starting with a dash.
 governance:
- Onchain:
-  Aave Improvement Proposals: "https://aave.com/aavenomics"
-
+ On-chain
+ 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
 decentralized: Yes
