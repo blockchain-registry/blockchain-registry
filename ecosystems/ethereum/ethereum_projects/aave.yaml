@@ -83,7 +83,8 @@ integrations:
 
 # Governance attributes. Each item must be on a new line starting with a dash.
 governance:
- On-chain
+ Admin Key handover: "https://medium.com/aave/aave-admin-key-handover-3e09e603d348"
+ Governance Forum: "https://governance.aave.com/"
  
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
 decentralized: Yes
