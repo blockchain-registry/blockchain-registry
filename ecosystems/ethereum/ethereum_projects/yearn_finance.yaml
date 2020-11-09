@@ -46,6 +46,8 @@ white_paper:
 security_audit:
  Quantstamp:
   Security review: "https://quantstamp.com/blog/yearn-finance-security-review"
+ MixBytes:
+  Protocol v.1 Audit: "https://github.com/iearn-finance/yearn-audits/blob/bdb3868c98e4fe2427898db05154942a9192efb1/MixBytes%20-%20Yearn.Finance%20protocol%20v.1%20Smart%20Contracts%20Audit%20Security%20Audit%20Report.pdf"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
