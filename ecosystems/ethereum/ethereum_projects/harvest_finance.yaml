@@ -46,7 +46,11 @@ security_audit:
   Smart Contract Audit Report: "https://github.com/harvest-finance/harvest/blob/master/audits/Haechi-Harvest.pdf"
 
 # Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
-exploits: 
+exploits:
+ Exploit001.26102020 Flash-arbitrage:
+  Attack TX details: "https://etherscan.io/tx/0x35f8d2f572fceaac9288e5d462117850ef2694786992a8c3f6d02612277b0877"
+  Harvest Finance: "https://medium.com/harvest-finance/harvest-flashloan-economic-attack-post-mortem-3cf900d65217"
+  Alex Halsey: "https://medium.com/talking-crypto/the-harvest-finance-exploit-explained-2c28ea1b5955"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
