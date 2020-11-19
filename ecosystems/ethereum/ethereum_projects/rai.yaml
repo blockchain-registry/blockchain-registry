@@ -44,6 +44,9 @@ whitepaper:
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  Reflexer.finance: "https://www.reflexer.finance/"

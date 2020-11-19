@@ -47,6 +47,9 @@ security_audit:
  PeckShield:
   YAMv3 Audit: "https://github.com/yam-finance/yamV3/blob/master/PeckShield-Audit-Report-YAMv3-v1.0.pdf"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  yam.finance: "https://yam.finance"

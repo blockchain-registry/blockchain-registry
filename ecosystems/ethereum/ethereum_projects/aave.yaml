@@ -50,6 +50,9 @@ security_audit:
  Trail of Bits:
   Protocol Final Report: "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  aave.com: "https://aave.com"

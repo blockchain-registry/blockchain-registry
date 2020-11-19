@@ -61,6 +61,9 @@ security_audit:
   April 2018 - Havven eUSD: "https://github.com/sigp/public-audits/blob/master/havven-2018-04-05/README.md"
   
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  Synthetix.io: "https://www.synthetix.io/"

@@ -53,6 +53,9 @@ security_audit:
  PeckShield:
   Final Report: "https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/PeckShield_Final_Audit_Report.pdf"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  Makerdao.com: "https://makerdao.com/en/"

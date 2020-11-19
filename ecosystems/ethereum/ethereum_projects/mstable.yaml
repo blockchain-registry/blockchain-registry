@@ -50,6 +50,9 @@ security_audit:
  Bramah Systems:
   mStable Contracts Audit: "https://cdn.discordapp.com/attachments/694377756905177111/752886627721936976/mStable_Audit_--_Bramah_Systems.pdf"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  Mstable.org: "https://mstable.org"

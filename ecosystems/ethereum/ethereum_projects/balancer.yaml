@@ -51,6 +51,9 @@ security_audit:
  Trail of Bits:
   Balancer Core: "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LtMQYB90ZuO38aKDyto%2F-M2EdQiZCQBtqpohoGtt%2F-M2EdpY4ind-7TyqtJL-%2FTrail%20of%20Bits%20Full%20Audit.pdf?alt=media&token=285781fb-c180-4cc3-8aeb-f5fc99578693"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  balancer.finance: “https://balancer.finance/“

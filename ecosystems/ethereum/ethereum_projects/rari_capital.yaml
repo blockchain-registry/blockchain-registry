@@ -46,6 +46,9 @@ security_audit:
  Quantstamp:
   Chasing Yield with DeFi Aggregators: "https://quantstamp.com/blog/chasing-yield-with-defi-aggregators"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  Rari.capital: "http://rari.capital/"

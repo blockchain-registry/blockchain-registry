@@ -45,6 +45,9 @@ security_audit:
  Haechi:
   Smart Contract Audit Report: "https://github.com/harvest-finance/harvest/blob/master/audits/Haechi-Harvest.pdf"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  Harvest.Finance: "https://harvest.finance/"

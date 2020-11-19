@@ -44,6 +44,9 @@ security_audit:
  Zeppelin:
   Token Audit: "https://medium.com/zeppelin-blog/basic-attention-token-bat-audit-88bf196df64b"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  basicattentiontoken.org: "https://basicattentiontoken.org/"

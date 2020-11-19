@@ -52,6 +52,9 @@ security_audit:
  Quantstamp:
   Protocol audit: "https://github.com/smartcontractkit/audits/blob/master/reports/Quantstamp%20-%20Chainlink%20Audit%20Report.pdf"
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  Chain.link: "https://chain.link"

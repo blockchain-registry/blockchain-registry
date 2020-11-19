@@ -45,6 +45,9 @@ security_audit:
   Audit Report: https://certik-public-assets.s3.amazonaws.com/CertiK%20Verification%20Report%20for%20The%20Sandbox.pdf
   CommonMinter: https://certik-public-assets.s3.amazonaws.com/CertiK%20Verification%20Report%20for%20The%20Sandbox(CommonMinter).pdf
 
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
  Sandbox.game: "https://www.sandbox.game/en/"
