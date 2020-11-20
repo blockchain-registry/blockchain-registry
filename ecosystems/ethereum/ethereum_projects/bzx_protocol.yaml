@@ -1,0 +1,101 @@
+# Project name.
+name: Bzx Protocol
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+categories: Defi
+
+# For any further category specification feel free to add multible tags.
+tags:
+ - Defi
+ - Decentralized Finance
+ - Dex
+ - Decentraliced Exchanges
+ - Finance
+ - Lending
+ - Margin Trading
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: bZx is a decentralized protocol that enables lending and borrowing for margin trading. The protocol can be easily integrated into new and existing exchanges, or accessed simply through the native bZx portal.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: bZx is a decentralized protocol that enables lending and borrowing for margin trading.
+
+# The year the project was founded.
+founded: 2018
+
+# Is the project launched, if yes, what year.
+launch_date: 2020
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: Yes
+
+# If the project forks software from other projects list the project names here.
+forks:
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+  Github: "https://github.com/bZxNetwork"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+  Whitepaper: "https://bzx.network/pdfs/bZx_lite_paper.pdf"
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+  ZK Labs:
+   BZX Network Contract Audit: "https://github.com/mattdf/audits/blob/master/bZx/bzx-audit.pdf"
+  Peckshield:
+   Smart Contract Audit: "https://bzx.network/pdfs/peckshield-audit-report-bZxV2-v1.0rc1.pdf"
+  Certik:
+   Smart Contract Audit bZx v2: "https://bzx.network/pdfs/bZx_v2_Audit%E2%80%93Report_CertiK.pdf"
+   Verification Audit: "https://bzx.network/pdfs/BZRX_vBZRX_CertiK_Verification_Report_1_07_11_2020.pdf"
+   Token and vBZRX vesting Audit: "https://bzx.network/pdfs/BZRX_vBZRX_CertiK_Report_1_07_11_2020.pdf"
+   Flash Loans Audit: "https://bzx.network/pdfs/CertiK%20Verification%20Report%20for%20bZx.pdf"
+
+# Has the project ben a victim of an exploit of any kind (on chain proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
+exploits:
+  Exploit001.15022020 Slippage attack:
+   Attack TX details: "https://etherscan.io/tx/0xb5c8bd9430b6cc87a0e2fe110ece6bf527fa4f170a4bc8cd032f768fc5219838"
+  Exploit002.18022020 Oracle manipulation attack:
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+website:
+  bzx.network: "https://bzx.network/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+  Twitter: "https://twitter.com/bzxHQ"
+  Telegram: "https://t.me/b0xNet"
+  Discord: "https://discord.com/invite/DKEq6FV"
+  Medium: "https://medium.com/bzxnetwork"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: Yes
+
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker: BZRX
+
+# Project main contract address.
+contract_address: "0x56d811088235f11c8920698a204a5010a788f4b3"
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem: Ethereum
+
+# List of other blockchain projects that are integrated into this one.
+integrations:
+ - Chainlink
+ - Augur
+ - Kyber
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No
