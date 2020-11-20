@@ -59,7 +59,9 @@ security_audit:
 exploits:
   Exploit001.15022020 Slippage attack:
    Attack TX details: "https://etherscan.io/tx/0xb5c8bd9430b6cc87a0e2fe110ece6bf527fa4f170a4bc8cd032f768fc5219838"
+   Peckshield: "https://peckshield.medium.com/bzx-hack-full-disclosure-with-detailed-profit-analysis-e6b1fa9b18fc"
   Exploit002.18022020 Oracle manipulation attack:
+   Attack TX details: "https://etherscan.io/address/0x360f85f0b74326cddff33a812b05353bc537747b#internaltx"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 website:
