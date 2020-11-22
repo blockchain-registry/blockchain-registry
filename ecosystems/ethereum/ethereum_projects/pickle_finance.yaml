@@ -1,72 +1,71 @@
 # Project name.
-name: Origin Protocol
+name: Pickle Finance
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-categories: Infrastucture
+categories: Defi
 
 # For any further category specification feel free to add multible tags.
 tags:
- - Infrastucture
- - E-commerce
- - Protocol
- - Stablecoin
- - Marketplace
- - Web3
+ - Yield Aggregator
+ - Decentralized Finance (DeFi)
+ - Governance
+ - Yield Farming
+ - Asset Management
 
 # Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
-description: Origin is an open-source platform that enables the creation of peer-to-peer marketplaces and e-commerce applications. The Origin Platform initially targets the global sharing economy, allowing buyers and sellers of fractional use goods and services (car-sharing, service-based tasks, home-sharing, etc.) to transact on the distributed, open web.
+description: Pickle is an experiment that actually gives a shit. Specifically, Pickle brings the four largest stablecoins (DAI, USDC, USDT, sUSD) closer to their peg.
 
 # Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
-summary: The Origin Platform powers commerce on the blockchain.
-
+summary: Pickle Finance makes it easy to earn yields wile getting stable coins closer to their peg.
+ 
 # The year the project was founded.
-founded: 2016
+founded: 2020
 
 # Is the project launched, if yes, what year.
-launch_date: 2019
+launch_date: 2020
 
 # Project status. Choose one of the following: Development, Live, Ghost, Scam.
 Status: Live
 
 # Is the project open source. YES or NO.
 open_source: Yes
-
+ 
 # If the project forks software from other projects list the project names here.
 forks:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
-  Github: "https://github.com/originprotocol"
+ Github: "https://github.com/pickle-finance"
 
 # Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 whitepaper:
-  Whitepaper: "https://www.originprotocol.com/en/whitepaper"
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
-  Trial of Bits:
-    Security Assessment: "https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf"
+ MixBytes:
+  09102020 Smart Contract Audit: "https://github.com/pickle-finance/protocol/blob/master/audits/MixBytes_Audit_Curve_Strategy.pdf"
+ Haeche Audit:
+  09112020 Smart Contract Audit: "https://docs.google.com/document/d/1tToSRZqykpq7lQUOmH2l3lrUaK--Y7llbatqKsj-CVY/edit"
 
 # Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
 exploits:
-  Exploit001.17112020 OUSD Hack:
-    Attack TX details: "https://etherscan.io/tx/0xe1c76241dda7c5fcf1988454c621142495640e708e3f8377982f55f8cf2a8401"
-    Origin Protocol: "https://medium.com/originprotocol/urgent-ousd-has-hacked-and-there-has-been-a-loss-of-funds-7b8c4a7d534c"
-    Decrypt: "https://decrypt.co/48478/ethereum-based-origin-dollar-hacked-for-estimated-7-million"
-
-# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+ Exploit001 DAI PickleJar strategy Hack:
+  Attack TX details: "https://etherscan.io/tx/0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0"
+  Pickle Finance info: "https://picklefinance.medium.com/pickle-was-hacked-and-there-has-been-a-loss-of-funds-414b99969c29"
+  
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
-  Originprotocol.com: "https://www.originprotocol.com/en/"
+ Pickle.finance: "https://pickle.finance/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
-  Twitter: "https://twitter.com/originprotocol"
-  Telegram: "https://t.me/originprotocol"
-  Reddit: "https://www.reddit.com/r/originprotocol/"
-  Discord: "https://discord.com/invite/jyxpUSe"
-  Facebook: "https://www.facebook.com/originprotocol"
-  Medium: "https://medium.com/originprotocol"
-  Youtube: "https://www.youtube.com/c/originprotocol"
+ Twitter: "https://twitter.com/picklefinance"
+ Discord: "https://discord.com/invite/gR85hmC"
+ Telegram: "https://t.me/picklefinance"
+ 中文 Telegram: "https://t.me/picklefinancechinese"
+ Medium: "https://picklefinance.medium.com/"
+ Forum: "https://forum.pickle.finance/"
+ Docs: "https://docs.pickle.finance/"
 
 #--------------------------------------------------------------------------------
 
@@ -74,21 +73,21 @@ community:
 
 # Is the project tokenbased. YES or NO.
 token: Yes
-
+ 
 # The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
-ticker: OGN
+ticker: PICKLE
 
 # Project main contract address.
-contract_address: "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
+contract_address: "0x429881672b9ae42b8eba0e26cd9c73711b891ca5"
 
 # Which "ecosystem" (baselayer) is it built/deployed on.
 ecosystem: Ethereum
-
+ 
 # List of other blockchain projects that are integrated into this one.
 integrations:
 
 # Governance attributes.
-governance:
+governance: on-chain
 
 # Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
 decentralized: No

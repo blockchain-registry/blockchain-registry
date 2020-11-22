@@ -62,6 +62,9 @@ exploits:
    Peckshield: "https://peckshield.medium.com/bzx-hack-full-disclosure-with-detailed-profit-analysis-e6b1fa9b18fc"
   Exploit002.18022020 Oracle manipulation attack:
    Attack TX details: "https://etherscan.io/address/0x360f85f0b74326cddff33a812b05353bc537747b#internaltx"
+  Exploit003.13092020 duplication vulnerability:
+   Attack TX details: "https://etherscan.io/address/0xca0b2fdae7a84da99970d660e72b42848574eaf0#tokentxns"
+   Cryptoslate: "https://cryptoslate.com/defi-protocol-bzx-suffers-8-million-hack-customer-funds-safe/"
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/".
 website:
