@@ -2,11 +2,11 @@
 name: Origin Protocol
 
 # Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
-categories: Infrastucture
+categories: Infrastructure
 
 # For any further category specification feel free to add multible tags.
 tags:
- - Infrastucture
+ - Infrastructure
  - E-commerce
  - Protocol
  - Stablecoin

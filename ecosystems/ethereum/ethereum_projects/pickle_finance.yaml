@@ -49,9 +49,10 @@ security_audit:
 
 # Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
 exploits:
- Exploit001 DAI PickleJar strategy Hack:
+ Exploit001.21112020 DAI PickleJar strategy Hack:
   Attack TX details: "https://etherscan.io/tx/0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0"
   Pickle Finance info: "https://picklefinance.medium.com/pickle-was-hacked-and-there-has-been-a-loss-of-funds-414b99969c29"
+  Peckshield Root Cause Analysis: "https://peckshield.medium.com/pickle-incident-root-cause-analysis-5d73496ebc9f"
   
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
