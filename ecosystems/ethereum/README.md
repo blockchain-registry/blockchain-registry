@@ -20,20 +20,19 @@ Ethereum is a global, open-source platform for decentralized applications. On Et
 
 |    Label    | Description                                                                                                                                                                                                                                                                                   |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  `Title`   | Project name and or titel  .        |
+|  `Name`   | Project name.        |
 |  `categories`   | Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.       |
 |  `tags`   | For any further category specification feel free to add multible tags. Each item must be on a new line starting with a dash.         |
 |  `Discription`   | Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.          |
 |  `Summary`   | Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.          |
 |  `Founded`   | The year the project was founded.          |
 |  `Launch Date`   | Is the project launched, if yes, what year.          |
-|  `Status`   | Project status. Choose one of the following: Development, Live, Ghost, Scam           |
-|  `Open Source`   | Is the project open source. YES or NO  .        |
-|  `Forked`   | Is the project forked. YES or NO.          |
-|  `Forked From`   | If the project is forked. What project is it forked from.         |
+|  `Status`   | Project status. Choose one of the following: Development, Live, Ghost, Scam.        |
+|  `Open Source`   | Is the project open source. YES or NO.        |
 |  `Development`   | The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.          |
 |  `White Paper`   | Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.          |
 |  `Security Audit`   | Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/". Each item must be on a new line starting with a dash.          |
+|  `Exploits`   | Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.        |
 |  `Website`   | The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/".          |
 |  `Community`   | List of community platforms. Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.        |
 

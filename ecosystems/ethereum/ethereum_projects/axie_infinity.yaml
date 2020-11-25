@@ -16,7 +16,7 @@ description: Axie Infinity is a decentralized turn-based strategy game that draw
 summary: Axie Infinity is a decentralized turn-based strategy game that draws influence from Pokemon and Tamagotchi with players able to breed, battle, and trade NFT-based fantasy creatures dubbed ‘Axie’.
  
 # The year the project was founded.
-founded: 
+founded: 2017
 
 # Is the project launched, if yes, what year.
 launch_date: 2018
@@ -26,9 +26,6 @@ Status: Live
 
 # Is the project open source. YES or NO.
 open_source: Yes
- 
-# If the project forks software from other projects list the project names here.
-forks:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:

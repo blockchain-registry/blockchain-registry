@@ -27,9 +27,6 @@ open_source:
  
 # Is the project forked. YES or NO.
 forked:
- 
-# If the project forks software from other projects list the project names here.
-forks:
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
@@ -39,6 +36,9 @@ whitepaper:
 
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
+
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:

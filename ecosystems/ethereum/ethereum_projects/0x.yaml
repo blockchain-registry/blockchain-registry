@@ -29,23 +29,6 @@ Status: Live
 
 # Is the project open source. YES or NO.
 open_source: Yes
- 
-# If the project forks software from other projects list the project names here.
-forks:
- Bancor:
-  Bancor SDK: "https://github.com/0xProject/bancor-sdk"
-Balancer:
- Smart order router: "https://github.com/0xProject/balancer-sor"
-dYdX:
- Exchanges Wrapper: "https://github.com/0xProject/exchange-wrappers"
-Truffle Suite:
- Core code for ganache: "https://github.com/0xProject/ganache-core"
- Truffle hdwallet provider: "https://github.com/0xProject/truffle-hdwallet-provider"
-Metamask:
- ETH contract metadata: "https://github.com/0xProject/eth-contract-metadata"
- Eth-sig-util: "https://github.com/0xProject/eth-sig-util"
-Ethers Io:
- Wallet implementation: "https://github.com/0xProject/ethers.js"
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:

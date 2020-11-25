@@ -30,13 +30,6 @@ Status: Live
 
 # Is the project open source. YES or NO.
 open_source: Yes
- 
-# If the project forks software from other projects list the project names here.
-forks:
- Metamask:
-  Eth contract metadata: "https://github.com/ampleforth/eth-contract-metadata"
- Aave:
-  Aave Improvement Proposals: "https://github.com/ampleforth/aip"
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:

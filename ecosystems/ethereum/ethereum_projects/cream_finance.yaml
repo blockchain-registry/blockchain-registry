@@ -28,15 +28,6 @@ status: Live
 
 # Is the project open source. YES or NO.
 open_source: No
- 
-# If the project forks software from other projects list the project names here.
-forks:
- Snapshot Labs:
-  Snapshot Spaces: "https://github.com/CreamFi/snapshot-spaces"
- Compound:
-  The Compound On-Chain Protocol: "https://github.com/CreamFi/compound-protocol"
-Yieldfarming:
- Yieldfarming: "https://github.com/CreamFi/yieldfarming"
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:

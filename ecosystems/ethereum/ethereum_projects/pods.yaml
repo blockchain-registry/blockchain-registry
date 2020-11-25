@@ -29,11 +29,6 @@ Status: Development
 
 # Is the project open source. YES or NO.
 open_source: Yes
- 
-# If the project forks software from other projects list the project names here.
-forks:
- - Uniswap
- - ohmydai!
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
 development:
