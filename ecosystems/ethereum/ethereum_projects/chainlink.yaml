@@ -35,9 +35,9 @@ forks:
   Wallet implementation: "https://github.com/smartcontractkit/ethers.js"
  Gnosis:
   MultiSigWallet: "https://github.com/smartcontractkit/MultiSigWallet"
-Truffle Suite:
+ Truffle Suite:
  Development framework: "https://github.com/smartcontractkit/truffle"
- Compiler: "https://github.com/smartcontractkit/truffle-compile"
+  Compiler: "https://github.com/smartcontractkit/truffle-compile"
 
 # The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/". Each item must be on a new line starting with a dash.
 development:
