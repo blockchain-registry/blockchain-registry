@@ -17,3 +17,7 @@ collectibles:
 entertainment: 
   name: Entertainment
   description: Entertainment is a form of activity that holds the attention and interest of an audience - eg. gambling, games and content
+
+governance: 
+  name: Governance
+  description: Governance tokens has the power to influence and shape the future of a protocol. Each token holder represent a voting power equal to the amount of tokens used to vote. Decentralised governance is a key feature in decentralised protocols to update or patch new features or unforeseen vulnerabilities.
