@@ -1,0 +1,104 @@
+# Project name.
+name: Argent
+
+# Only add one of the following category in this field. Infrastructure, Money, Defi, Collectibles, Entertainment.
+categories: Infrastructure
+
+# For any further category specification feel free to add multible tags.
+tags:
+ - Wallet
+ - Smart Wallet
+ - Non-custodial Wallet
+ - Smart Contract Wallets
+ - Social Recovery Wallet
+ - Finance App
+ - Mobile App
+
+# Project descriptions must provide the following details Project Title, Overview and Location. The problem the project will address, a set of goals for the project, the overall objectives for the project. Has to be less than 1000 characters.
+description: Argent is the most simple and secure smart wallet for crypto. It does everything you'd expect from a bank - without the bank. Store and send; earn interest and invest. Without borders, barriers or boundaries. And only you can access your assets. Not us. Not anyone else.
+
+# Summary of the description. Has to be less than 200 characters. Preferably from the projects’ official site.
+summary: The most simple and secure smart wallet for crypto. Store and send; borrow, earn interest and invest.
+ 
+# The year the project was founded.
+founded: 2017
+
+# Is the project launched, if yes, what year.
+launch_date: 2019
+
+# Project status. Choose one of the following: Development, Live, Ghost, Scam.
+Status: Live
+
+# Is the project open source. YES or NO.
+open_source: No
+
+# The projects development url. Provided as a url to (Git, Gitlab, Github etc.). Each url must be wrapped in quotes "https://github.com/".
+development:
+ Github: "https://github.com/argentlabs/"
+
+# Link to techical documentation. Provided as a url. The url must be wrapped in quotes "https://github.com/".
+whitepaper:
+
+# Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
+security_audit:
+ G0 Group:
+  04052020. Argent Update Apr2020: "https://github.com/argentlabs/argent-contracts/blob/master/audit/ArgentUpdateApr2020.pdf"
+  09102020. Argent Update Aug2020: "https://github.com/argentlabs/argent-contracts/blob/master/audit/ArgentUpdateAug2020.pdf"
+  19062020. Recovery Manager Vulnebility Fix: "https://github.com/argentlabs/argent-contracts/blob/master/audit/G0Group-ArgentFix2020Jun.pdf"
+  04032020. Factory & ENS Update: "https://github.com/argentlabs/argent-contracts/blob/master/audit/G0Group-Argent_Upgrade_Mar2020.pdf"
+  29112020. Argent Upgrade Nov2019: "https://github.com/argentlabs/argent-contracts/blob/master/audit/G0Group-Argent_Upgrade_Nov2019.pdf"
+  29092020. Argent Update Sep2020: "https://github.com/argentlabs/argent-contracts/blob/master/audit/ArgentUpdateSep2020.pdf"
+ Solidified:
+  26112018. Modular Smart Contract Wallet: "https://github.com/argentlabs/argent-contracts/blob/master/audit/Audit%20Report%20-%20Argent%20%5B26-11-2018%5D%20.pdf"
+ Trial of Bits:
+  14082020. Final Report: "https://github.com/argentlabs/argent-contracts/blob/master/audit/Final%20Report%20-%20Argent.pdf"
+ Adam Kolar & Nick Munoz-McDonald:
+  09082019. Decentralised Finance Extension: "https://github.com/argentlabs/argent-contracts/blob/master/audit/ArgentNetwork_DeFi%20(1).md"
+  09082019. Module for management of NFT assets: "https://github.com/argentlabs/argent-contracts/blob/master/audit/ArgentNetfork_NftModule%20(1).md"
+
+# Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
+exploits: 
+
+# The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
+website:
+ - Argent.xyz: "https://www.argent.xyz/"
+
+# List of community platforms. Each url must be wrapped in quotes "https://github.com/".
+community:
+ Twitter: "https://twitter.com/argenthq"
+ Discord: "https://discord.com/invite/GWSyrHg"
+ Facebook: "https://www.facebook.com/argenthq/"
+ Youtube: "https://www.youtube.com/argentHQ"
+ Blog: "https://www.argent.xyz/blog/"
+
+#--------------------------------------------------------------------------------
+
+#Token info
+
+# Is the project tokenbased. YES or NO.
+token: No
+ 
+# The ticker is an abbreviation used to uniquely identify a project. If the project havent been asigned a ticker leave blank.
+ticker:
+
+# Project main contract address.
+contract_address:
+
+# Which "ecosystem" (baselayer) is it built/deployed on.
+ecosystem:
+ 
+# List of other blockchain projects that are integrated into this one.
+integrations:
+ - Uniswap
+ - Aave
+ - Compound
+ - PoolTogether
+ - Yearn Finance
+ - Maker Protocol
+ - TokenSets
+
+# Governance attributes.
+governance:
+
+# Is the decision making, distributed or delegated away from a centralized organisation. Answer should just be YES or NO.
+decentralized: No

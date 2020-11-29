@@ -91,7 +91,7 @@ integrations:
 - Hegic
 - Keep3r
 - Uniswap
-- Pickle_Finance
+- Pickle Finance
 
 # Governance attributes. Each item must be on a new line starting with a dash.
 governance: On-chain

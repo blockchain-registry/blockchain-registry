@@ -83,6 +83,7 @@ ecosystem: Ethereum
  
 # List of other blockchain projects that are integrated into this one.
 integrations:
+ - Yearn Finance
 
 # Governance attributes.
 governance: on-chain
