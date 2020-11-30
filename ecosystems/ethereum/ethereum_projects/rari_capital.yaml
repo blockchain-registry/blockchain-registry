@@ -41,7 +41,7 @@ whitepaper:
 # Has the project codebase been audited by a third part sucurity provider (a public proof is required). Each url must be wraped in quotes "https://github.com/".
 security_audit:
  Quantstamp:
-  Chasing Yield with DeFi Aggregators: "https://quantstamp.com/blog/chasing-yield-with-defi-aggregators"
+  21092020. Chasing Yield with DeFi Aggregators: "https://quantstamp.com/blog/chasing-yield-with-defi-aggregators"
 
 # Has the project fallen victim to an exploit of any kind (on chain proof is required). Each url must be wrapped in quotes “https://github.com/”.
 exploits: 

@@ -61,7 +61,7 @@ exploits:
 
 # The projects official website. Provided as a url. The url must be wrapped in quotes "https://github.com/". 
 website:
- - Argent.xyz: "https://www.argent.xyz/"
+ Argent.xyz: "https://www.argent.xyz/"
 
 # List of community platforms. Each url must be wrapped in quotes "https://github.com/".
 community:
